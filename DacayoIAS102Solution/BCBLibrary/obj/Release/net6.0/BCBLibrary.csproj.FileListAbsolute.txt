@@ -1,0 +1,12 @@
+E:\BCB Project\BCB\DacayoIAS102Solution\BCBLibrary\bin\Release\net6.0\BCBLibrary.deps.json
+E:\BCB Project\BCB\DacayoIAS102Solution\BCBLibrary\bin\Release\net6.0\BCBLibrary.dll
+E:\BCB Project\BCB\DacayoIAS102Solution\BCBLibrary\bin\Release\net6.0\BCBLibrary.pdb
+E:\BCB Project\BCB\DacayoIAS102Solution\BCBLibrary\obj\Release\net6.0\BCBLibrary.csproj.AssemblyReference.cache
+E:\BCB Project\BCB\DacayoIAS102Solution\BCBLibrary\obj\Release\net6.0\BCBLibrary.GeneratedMSBuildEditorConfig.editorconfig
+E:\BCB Project\BCB\DacayoIAS102Solution\BCBLibrary\obj\Release\net6.0\BCBLibrary.AssemblyInfoInputs.cache
+E:\BCB Project\BCB\DacayoIAS102Solution\BCBLibrary\obj\Release\net6.0\BCBLibrary.AssemblyInfo.cs
+E:\BCB Project\BCB\DacayoIAS102Solution\BCBLibrary\obj\Release\net6.0\BCBLibrary.csproj.CoreCompileInputs.cache
+E:\BCB Project\BCB\DacayoIAS102Solution\BCBLibrary\obj\Release\net6.0\BCBLibrary.dll
+E:\BCB Project\BCB\DacayoIAS102Solution\BCBLibrary\obj\Release\net6.0\refint\BCBLibrary.dll
+E:\BCB Project\BCB\DacayoIAS102Solution\BCBLibrary\obj\Release\net6.0\BCBLibrary.pdb
+E:\BCB Project\BCB\DacayoIAS102Solution\BCBLibrary\obj\Release\net6.0\ref\BCBLibrary.dll

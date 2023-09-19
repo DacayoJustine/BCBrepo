@@ -1,0 +1,17 @@
+﻿@*<h3>Student</h3>
+<EditForm Model="_student" OnValidSubmit="@(()=>HandleStudentSubmitAsync())">
+    <InputNumber class="form-control" id="@nameof(_student.Id)" @bind-Value="_student.Id"></InputNumber>
+    <InputText class="form-control" id="@nameof(_student.Name)" @bind-Value="_student.Name"></InputText>
+
+    <button type="submit" class="btn btn-sm btn-primary">Save</button>
+</EditForm>
+
+@code {
+    private StudentModel _student = new();
+
+    private async Task HandleStudentSubmitAsync()
+    {
+        // save
+        await _secretaryManager.CreateResidents(_student, CancellationToken.None);
+    }
+}*@

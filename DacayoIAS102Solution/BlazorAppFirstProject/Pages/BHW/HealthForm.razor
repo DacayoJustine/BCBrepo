@@ -1,0 +1,148 @@
+﻿@page "/HealthForm"
+
+    <section style="background: var(--bs-white);">
+        <h1 class="text-center text-capitalize" style="border-color: var(--secondary);color: var(--bs-secondary);">Health Profile</h1>
+        <EditForm Model="_health" OnValidSubmit="@CreateHealthProfile">
+        <div class="container">
+            <div class="form-group mb-3">
+                    <div class="row">
+                        <div class="col offset-xl-0">
+                        <p style="color: #070707;"><strong>First Name</strong><span class="text-danger">*</span></p>
+                            <InputText class="form-control" placeholder="Juan" id="@nameof(_health.FirstName)" @bind-Value="_health.FirstName"></InputText>
+                        </div>
+                        <div class="col">
+                        <p style="color: #070707;"><strong>Middle Name</strong><span class="text-danger">*</span></p>
+                            <InputText class="form-control" placeholder="D" id="@nameof(_health.MiddleName)" @bind-Value="_health.MiddleName"></InputText>
+                        </div>
+                        <div class="col">
+                            <div class="row">
+                                <div class="col">
+                                <p style="color: #070707;"><strong>Last Name</strong>&nbsp;<span class="text-danger">*</span></p>
+                                    <InputText class="form-control" placeholder="Tamad" id="@nameof(_health.LastName)" @bind-Value="_health.LastName"></InputText>
+
+                                </div>
+                                <div class="col">
+                                <p style="color: rgb(16,15,15);"><strong>Suffix</strong>&nbsp;<span class="text-danger">*</span></p>
+                                    <InputText class="form-control" placeholder="Jr." id="@nameof(_health.Suffix)" @bind-Value="_health.Suffix"></InputText>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="form-group mb-3">
+                    <div class="row">
+                        <div class="col">
+                            <p style="margin-bottom: 3px; color: black"><strong>Date Of Birth</strong>&nbsp;<span class="text-danger">*</span></p>
+                            <InputText class="form-control" type="date" id="@nameof(_health.BirthDate)" @bind-Value="_health.BirthDate"></InputText>
+
+                        </div>
+                    </div>
+                </div>
+            <p style="margin-bottom: -1px; color: black"><strong>Age</strong><span class="text-danger">*</span></p>
+                 <InputText class="form-control" placeholder="21" type="number" id="@nameof(_health.Age)" @bind-Value="_health.Age"></InputText>
+                <div class="form-group mb-3">
+                <p style="margin-bottom: -1px; color: black"><strong>Gender</strong><span class="text-danger">*</span></p>
+                     <InputText class="form-control" placeholder="Male/Female" id="@nameof(_health.Gender)" @bind-Value="_health.Gender"></InputText>
+                    <div class="col-xl-12">
+                    <p style="margin-top: 8px; color: black"><strong>Fathers Name</strong><span class="text-danger">*</span></p>
+                    <InputText class="form-control" placeholder="Juan D Tamad" id="@nameof(_health.FathersName)" @bind-Value="_health.FathersName"></InputText>
+                    </div>
+                    <div class="col-xl-12">
+                    <p color: black><strong>Mothers Name</strong><span class="text-danger">*</span></p>
+                    <InputText class="form-control" placeholder="Belinda A Juan" id="@nameof(_health.MothersName)" @bind-Value="_health.MothersName"></InputText>
+
+                    </div>
+                    <div class="col-xl-12">
+                        <p style="color: black"><strong>Head of Family</strong></p>
+                        <InputText class="form-control" placeholder="Alexis" id="@nameof(_health.HeadOfFamily)" @bind-Value="_health.HeadOfFamily"></InputText>
+                        <p style="color: black"><strong>Total Number Of Family</strong></p>
+                        <InputText class="form-control" placeholder="3" id="@nameof(_health.TotalNumberOfFamily)" @bind-Value="_health.TotalNumberOfFamily"></InputText>
+                        <p style="color: black"><strong>Purok</strong></p>
+                        <InputText class="form-control" placeholder="Purok 1A" id="@nameof(_health.Purok)" @bind-Value="_health.Purok"></InputText>
+                    </div>
+                </div>
+                <div class="form-group mb-3">
+                    <p></p>
+                </div>
+                <div class="justify-content-center d-flex form-group mb-3" style="margin-left: -365px;">
+                    <div id="submit-btn"></div>
+                </div>
+        </div>
+        <div class="container" style="color: var(--dark);">
+                <div class="form-group mb-3">
+                    <p></p>
+                    <p style="margin-top: 6px;margin-bottom: -1px; color: black"><strong>PWD*</strong></p>
+                    <InputText class="form-control" placeholder="Ex. Yes/No" id="@nameof(_health.PWD)" @bind-Value="_health.PWD"></InputText>
+                    <p style="margin-top: 6px;margin-bottom: -1px; color: black"><strong>Prenatal*</strong></p>
+                    <div class="form-check"><label class="form-check-label" for="formCheck-26">Yes</label></div>
+                    <InputText class="form-control" placeholder="Ex. Yes/No" id="@nameof(_health.Prenatal)" @bind-Value="_health.Prenatal"></InputText>
+                    <p style="margin-bottom: -2px;margin-top: 16px; color: black"><strong>Type of Illness*</strong></p>
+                    <InputText class="form-control" placeholder="Ex. Flu" id="@nameof(_health.TypeOfIllness)" @bind-Value="_health.TypeOfIllness"></InputText>
+                </div>
+                <div class="justify-content-center d-flex form-group mb-3" style="margin-left: -365px;padding-bottom: 0px;margin-bottom: -8px;padding-top: 0px;margin-top: -30px;">
+                    <div id="submit-btn-2"></div>
+                <p style="color: black; margin-bottom: 1px;padding-bottom: 0px;padding-top: 0px;margin-top: 25px;margin-right: -188px;padding-left: 0px;padding-right: 0px;margin-left: -1013px;"><strong>Immunization*</strong></p>
+                </div>
+                    <InputText class="form-control" placeholder="Ex. First Dose" id="@nameof(_health.Immunation)" @bind-Value="_health.Immunation"></InputText>
+                <div class="form-group mb-3">
+                    <p style="margin-bottom: 1px; color: black"><strong>Weight&nbsp;</strong><span class="text-danger">*</span></p>
+                    <InputText class="form-control" placeholder="Ex. 50kg" id="@nameof(_health.Weight)" @bind-Value="_health.Weight"></InputText>
+                    <p style="margin-bottom: -1px;margin-top: 20px; color: black"><strong>Height</strong><span class="text-danger">*</span></p>
+                    <InputText class="form-control" placeholder="Ex. 187cm" id="@nameof(_health.Height)" @bind-Value="_health.Height"></InputText>
+                    <p style="margin-top: 18px;margin-bottom: 1px; color: black"><strong>Temperature</strong><span class="text-danger">*</span></p>
+                    <InputText class="form-control" id="@nameof(_health.Temperature)" @bind-Value="_health.Temperature"></InputText>
+                    <p style="margin-top: 18px;margin-bottom: 1px; color: black"><strong>Blood pressure</strong><span class="text-danger">*</span></p>
+                    <InputText class="form-control" id="@nameof(_health.BloodPressure)" @bind-Value="_health.BloodPressure"></InputText>
+                    <p style="margin-top: 18px;margin-bottom: 1px; color: black"><strong>Medicine</strong><span class="text-danger">*</span></p>
+                    <InputText class="form-control" placeholder="Ex. Paracetamol" id="@nameof(_health.Medicine)" @bind-Value="_health.Medicine"></InputText>
+                </div>
+            <div class="justify-content-center d-flex form-group mb-3" style="margin-left: -365px;margin-top: 42px;">
+                <div id="submit-btn"></div><button class="btn btn-primary" type="submit" style="margin-left: 339px;">ADD</button><button class="btn btn-primary" type="reset" style="margin-left: 64px;">CANCEL</button>
+            </div>
+        </div>
+        </EditForm>
+        <div class="col">
+            <h3 id="fail-1" class="text-center text-danger d-none"><br>Form not Submitted&nbsp;<a href="contact.html">Try Again</a><br><br></h3>
+            <h3 id="success-2" class="text-center text-success d-none"><br>Form Submitted Successfully&nbsp;<a href="contact.html">Send Another Response</a><br><br></h3>
+        </div>
+
+    </section>
+
+
+@code {
+    private HealthModel _health = new();
+    [Inject] private HealthManager _healthManager { get; set; }
+    private IEnumerable<HealthModel> _healthList { get; set; }
+
+    private async Task CreateHealthProfile()
+    {
+
+        HealthModel health = new HealthModel
+            {
+                FirstName = _health.FirstName,
+                MiddleName = _health.MiddleName,
+                LastName = _health.LastName,
+                Suffix = _health.Suffix,
+                BirthDate = _health.BirthDate,
+                Age = _health.Age,
+                Gender = _health.Gender,
+                Religion = _health.Religion,
+                Occupation = _health.Occupation,
+                FathersName = _health.FathersName,
+                MothersName = _health.MothersName,
+                HeadOfFamily = _health.HeadOfFamily,
+                TotalNumberOfFamily = _health.TotalNumberOfFamily,
+                EducationalAttainment = _health.EducationalAttainment,
+                Purok = _health.Purok,
+                PWD = _health.PWD,
+                Prenatal = _health.Prenatal,
+                TypeOfIllness = _health.TypeOfIllness
+            };
+        await _healthManager.CreateHealthProfile(health, CancellationToken.None);
+
+
+    }
+
+
+
+}

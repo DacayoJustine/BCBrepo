@@ -1,0 +1,10 @@
+E:\BCB Project\BCB\DacayoIAS102Solution\DacayoIdentity\bin\Debug\BCBDatabase.dacpac
+E:\BCB Project\BCB\DacayoIAS102Solution\DacayoIdentity\obj\Debug\BCBDatabase.sqlproj.AssemblyReference.cache
+E:\BCB Project\BCB\DacayoIAS102Solution\DacayoIdentity\bin\Debug\BCBDatabase.dll
+E:\BCB Project\BCB\DacayoIAS102Solution\DacayoIdentity\bin\Debug\BCBDatabase.pdb
+E:\BCB Project\BCB\DacayoIAS102Solution\DacayoIdentity\obj\Debug\BCBDatabase.dll
+E:\BCB Project\BCB\DacayoIAS102Solution\DacayoIdentity\obj\Debug\BCBDatabase.pdb
+E:\BCB Project\BCB\DacayoIAS102Solution\DacayoIdentity\obj\Debug\Model.xml
+E:\BCB Project\BCB\DacayoIAS102Solution\DacayoIdentity\obj\Debug\refactor.xml
+E:\BCB Project\BCB\DacayoIAS102Solution\DacayoIdentity\obj\Debug\postdeploy.sql
+E:\BCB Project\BCB\DacayoIAS102Solution\DacayoIdentity\obj\Debug\predeploy.sql

@@ -1,0 +1,84 @@
+﻿@using BCBLibrary.BCBModels
+@using BCBLibrary.Secretary
+
+<div class="table-responsive tbl-wfx mt-1 kot-table">
+    @if (ResidentsDetail is not null)
+    {
+        <table class="table table-striped">
+            <thead>
+                <tr>
+                    <th scope="col">#</th>
+                    <th scope="col">FirstName</th>
+                    <th scope="col">MiddleName</th>
+                    <th scope="col">LastName</th>
+                    <th scope="col">Suffix</th>
+                    <th scope="col">BirthDate</th>
+                    <th scope="col">Age</th>
+                    <th scope="col">Gender</th>
+                    <th scope="col">civilStatus</th>
+                    <th scope="col">Religion</th>
+                    <th scope="col">Occupation</th>
+                    <th scope="col">FathersName</th>
+                    <th scope="col">MothersName</th>
+                    <th scope="col">HeadOfFamily</th>
+                    <th scope="col">TotalNumberOfFamily</th>
+                    <th scope="col">Purok</th>
+                    <th scope="col">StatusType</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in ResidentsDetail)
+                {
+                    <tr>
+                        <th scope="row">@item.Id</th>
+                        <td>@item.FirstName</td>
+                        <td>@item.MiddleName</td>
+                        <td>@item.LastName</td>
+                        <td>@item.Suffix</td>
+                        <td>@item.BirthDate</td>
+                        <td>@item.civilStatus</td>
+                        <td>@item.Religion</td>
+                        <td>@item.Occupation</td>
+                        <td>@item.FathersName</td>
+                        <td>@item.MothersName</td>
+                        <td>@item.HeadOfFamily</td>
+                        <td>@item.TotalNumberOfFamily</td>
+                        <td>@item.Purok</td>
+                        <td>@item.StatusType</td>
+                        <td><icon class="btn btn-danger" onclick="@(()=>DeleteResidents(@item.FirstName))">Delete</icon></td>
+
+                        <td>
+                            <button class="btn btn-primary">View</button>
+                        </td>
+
+                    </tr>
+                }
+            </tbody>
+        </table>
+    }
+</div>
+
+@code {
+    [Inject] private ResidentsManager _residentsManager { get; set; }
+    [Parameter] public IEnumerable<ResidentsModel> ResidentsDetail { get; set; }
+    [Parameter] public EventCallback<ResidentsModel> OnResidentsSelected { get; set; }
+
+    private ResidentsModel _residents { get; set; }
+
+    protected override async Task OnInitializedAsync()
+    {
+        await LoadResidentsDetail();
+    }
+    private async Task LoadResidentsDetail()
+    {
+        ResidentsDetail = await _residentsManager.GetAllResidents();
+    }
+
+    private async Task DeleteResidents(string id)
+    {
+        await _residentsManager.DeleteResidents(id, CancellationToken.None);
+        await InvokeAsync(StateHasChanged);
+    }
+
+
+}

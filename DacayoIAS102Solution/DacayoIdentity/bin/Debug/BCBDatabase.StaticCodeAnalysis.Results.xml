@@ -1,0 +1,203 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Problems>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0007</Rule>
+    <ProblemDescription>Nullable columns can cause final results to be evaluated as NULL for the predicate.</ProblemDescription>
+    <SourceFile>E:\BCB Project\BCB\DacayoIAS102Solution\DacayoIdentity\dbo\Stored Procedure\HealthProfile\CreateHealthProfile.sql</SourceFile>
+    <Line>34</Line>
+    <Column>8</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0007</Rule>
+    <ProblemDescription>Nullable columns can cause final results to be evaluated as NULL for the predicate.</ProblemDescription>
+    <SourceFile>E:\BCB Project\BCB\DacayoIAS102Solution\DacayoIdentity\dbo\Stored Procedure\HealthProfile\CreateHealthProfile.sql</SourceFile>
+    <Line>35</Line>
+    <Column>10</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0007</Rule>
+    <ProblemDescription>Nullable columns can cause final results to be evaluated as NULL for the predicate.</ProblemDescription>
+    <SourceFile>E:\BCB Project\BCB\DacayoIAS102Solution\DacayoIdentity\dbo\Stored Procedure\HealthProfile\CreateHealthProfile.sql</SourceFile>
+    <Line>36</Line>
+    <Column>7</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0007</Rule>
+    <ProblemDescription>Nullable columns can cause final results to be evaluated as NULL for the predicate.</ProblemDescription>
+    <SourceFile>E:\BCB Project\BCB\DacayoIAS102Solution\DacayoIdentity\dbo\Stored Procedure\HealthProfile\CreateHealthProfile.sql</SourceFile>
+    <Line>37</Line>
+    <Column>7</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0007</Rule>
+    <ProblemDescription>Nullable columns can cause final results to be evaluated as NULL for the predicate.</ProblemDescription>
+    <SourceFile>E:\BCB Project\BCB\DacayoIAS102Solution\DacayoIdentity\dbo\Stored Procedure\HealthProfile\CreateHealthProfile.sql</SourceFile>
+    <Line>38</Line>
+    <Column>7</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0007</Rule>
+    <ProblemDescription>Nullable columns can cause final results to be evaluated as NULL for the predicate.</ProblemDescription>
+    <SourceFile>E:\BCB Project\BCB\DacayoIAS102Solution\DacayoIdentity\dbo\Stored Procedure\HealthProfile\CreateHealthProfile.sql</SourceFile>
+    <Line>39</Line>
+    <Column>7</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0007</Rule>
+    <ProblemDescription>Nullable columns can cause final results to be evaluated as NULL for the predicate.</ProblemDescription>
+    <SourceFile>E:\BCB Project\BCB\DacayoIAS102Solution\DacayoIdentity\dbo\Stored Procedure\HealthProfile\CreateHealthProfile.sql</SourceFile>
+    <Line>40</Line>
+    <Column>7</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0007</Rule>
+    <ProblemDescription>Nullable columns can cause final results to be evaluated as NULL for the predicate.</ProblemDescription>
+    <SourceFile>E:\BCB Project\BCB\DacayoIAS102Solution\DacayoIdentity\dbo\Stored Procedure\HealthProfile\CreateHealthProfile.sql</SourceFile>
+    <Line>41</Line>
+    <Column>7</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0007</Rule>
+    <ProblemDescription>Nullable columns can cause final results to be evaluated as NULL for the predicate.</ProblemDescription>
+    <SourceFile>E:\BCB Project\BCB\DacayoIAS102Solution\DacayoIdentity\dbo\Stored Procedure\HealthProfile\CreateHealthProfile.sql</SourceFile>
+    <Line>42</Line>
+    <Column>7</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0007</Rule>
+    <ProblemDescription>Nullable columns can cause final results to be evaluated as NULL for the predicate.</ProblemDescription>
+    <SourceFile>E:\BCB Project\BCB\DacayoIAS102Solution\DacayoIdentity\dbo\Stored Procedure\HealthProfile\CreateHealthProfile.sql</SourceFile>
+    <Line>43</Line>
+    <Column>7</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0007</Rule>
+    <ProblemDescription>Nullable columns can cause final results to be evaluated as NULL for the predicate.</ProblemDescription>
+    <SourceFile>E:\BCB Project\BCB\DacayoIAS102Solution\DacayoIdentity\dbo\Stored Procedure\HealthProfile\CreateHealthProfile.sql</SourceFile>
+    <Line>44</Line>
+    <Column>7</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0007</Rule>
+    <ProblemDescription>Nullable columns can cause final results to be evaluated as NULL for the predicate.</ProblemDescription>
+    <SourceFile>E:\BCB Project\BCB\DacayoIAS102Solution\DacayoIdentity\dbo\Stored Procedure\HealthProfile\CreateHealthProfile.sql</SourceFile>
+    <Line>45</Line>
+    <Column>7</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0007</Rule>
+    <ProblemDescription>Nullable columns can cause final results to be evaluated as NULL for the predicate.</ProblemDescription>
+    <SourceFile>E:\BCB Project\BCB\DacayoIAS102Solution\DacayoIdentity\dbo\Stored Procedure\HealthProfile\CreateHealthProfile.sql</SourceFile>
+    <Line>46</Line>
+    <Column>7</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0007</Rule>
+    <ProblemDescription>Nullable columns can cause final results to be evaluated as NULL for the predicate.</ProblemDescription>
+    <SourceFile>E:\BCB Project\BCB\DacayoIAS102Solution\DacayoIdentity\dbo\Stored Procedure\HealthProfile\CreateHealthProfile.sql</SourceFile>
+    <Line>47</Line>
+    <Column>7</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0007</Rule>
+    <ProblemDescription>Nullable columns can cause final results to be evaluated as NULL for the predicate.</ProblemDescription>
+    <SourceFile>E:\BCB Project\BCB\DacayoIAS102Solution\DacayoIdentity\dbo\Stored Procedure\HealthProfile\CreateHealthProfile.sql</SourceFile>
+    <Line>48</Line>
+    <Column>7</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0007</Rule>
+    <ProblemDescription>Nullable columns can cause final results to be evaluated as NULL for the predicate.</ProblemDescription>
+    <SourceFile>E:\BCB Project\BCB\DacayoIAS102Solution\DacayoIdentity\dbo\Stored Procedure\HealthProfile\CreateHealthProfile.sql</SourceFile>
+    <Line>49</Line>
+    <Column>7</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0007</Rule>
+    <ProblemDescription>Nullable columns can cause final results to be evaluated as NULL for the predicate.</ProblemDescription>
+    <SourceFile>E:\BCB Project\BCB\DacayoIAS102Solution\DacayoIdentity\dbo\Stored Procedure\HealthProfile\CreateHealthProfile.sql</SourceFile>
+    <Line>50</Line>
+    <Column>7</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0007</Rule>
+    <ProblemDescription>Nullable columns can cause final results to be evaluated as NULL for the predicate.</ProblemDescription>
+    <SourceFile>E:\BCB Project\BCB\DacayoIAS102Solution\DacayoIdentity\dbo\Stored Procedure\HealthProfile\CreateHealthProfile.sql</SourceFile>
+    <Line>51</Line>
+    <Column>7</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0007</Rule>
+    <ProblemDescription>Nullable columns can cause final results to be evaluated as NULL for the predicate.</ProblemDescription>
+    <SourceFile>E:\BCB Project\BCB\DacayoIAS102Solution\DacayoIdentity\dbo\Stored Procedure\HealthProfile\CreateHealthProfile.sql</SourceFile>
+    <Line>52</Line>
+    <Column>7</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0007</Rule>
+    <ProblemDescription>Nullable columns can cause final results to be evaluated as NULL for the predicate.</ProblemDescription>
+    <SourceFile>E:\BCB Project\BCB\DacayoIAS102Solution\DacayoIdentity\dbo\Stored Procedure\HealthProfile\CreateHealthProfile.sql</SourceFile>
+    <Line>53</Line>
+    <Column>7</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0007</Rule>
+    <ProblemDescription>Nullable columns can cause final results to be evaluated as NULL for the predicate.</ProblemDescription>
+    <SourceFile>E:\BCB Project\BCB\DacayoIAS102Solution\DacayoIdentity\dbo\Stored Procedure\HealthProfile\CreateHealthProfile.sql</SourceFile>
+    <Line>54</Line>
+    <Column>7</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0007</Rule>
+    <ProblemDescription>Nullable columns can cause final results to be evaluated as NULL for the predicate.</ProblemDescription>
+    <SourceFile>E:\BCB Project\BCB\DacayoIAS102Solution\DacayoIdentity\dbo\Stored Procedure\HealthProfile\CreateHealthProfile.sql</SourceFile>
+    <Line>55</Line>
+    <Column>7</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0014</Rule>
+    <ProblemDescription>Data loss might occur when casting from Int to NVarChar(250).</ProblemDescription>
+    <SourceFile>E:\BCB Project\BCB\DacayoIAS102Solution\DacayoIdentity\dbo\Stored Procedure\HealthProfile\CreateHealthProfile.sql</SourceFile>
+    <Line>32</Line>
+    <Column>9</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0014</Rule>
+    <ProblemDescription>Data loss might occur when casting from NVarChar(250) to Int.</ProblemDescription>
+    <SourceFile>E:\BCB Project\BCB\DacayoIAS102Solution\DacayoIdentity\dbo\Stored Procedure\HealthProfile\CreateHealthProfile.sql</SourceFile>
+    <Line>64</Line>
+    <Column>10</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0001</Rule>
+    <ProblemDescription>The shape of the result set produced by a SELECT * statement will change if the underlying table or view structure changes.</ProblemDescription>
+    <SourceFile>E:\BCB Project\BCB\DacayoIAS102Solution\DacayoIdentity\dbo\Stored Procedure\ResidentsProfile\GetAllResidents.sql</SourceFile>
+    <Line>4</Line>
+    <Column>9</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+</Problems>

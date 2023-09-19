@@ -1,0 +1,145 @@
+﻿@* @inject IResidentsRepository IResidentRepository; *@
+@page "/ResidentsForm"
+@* @attribute [Authorize("Secretary")]
+@attribute [Route($"/{RouteConstants.RESIDENTS_DETAIL_ROUTE}")]
+ *@
+
+@* <button class="btn btn-primary" onclick="@(()=>ShowResidentsListClick())">Residents List</button> *@
+
+        <h1 class="text-center text-capitalize" style="border-color: var(--secondary);color: var(--bs-secondary);">Residents Profile</h1>
+        @if (_selectedResidents != null)
+            {
+    <EditForm Model="_selectedResidents" OnValidSubmit="@UpdateResidents">
+        <div class="container">
+                <div class="form-group mb-3">
+                    <div class="row">
+                        <div class="col offset-xl-0">
+                            <p style="color: black;"><strong>First Name</strong><span class="text-danger">*</span></p>
+                        <InputText class="form-control" placeholder="Ex. Alexis" id="@nameof(_selectedResidents.FirstName)" @bind-Value="_residents.FirstName"></InputText>
+                        </div>
+                        <div class="col">
+                        <p style="color: black;"><strong>Middle Name</strong><span class="text-danger" style="color: #070707;">*</span></p>
+                        <InputText class="form-control" placeholder="Ex. Cual" id="@nameof(_selectedResidents.MiddleName)" @bind-Value="_residents.MiddleName"></InputText>
+                        </div>
+                        <div class="col" style="color: #070707;">
+                            <div class="row" style="color: #070707;">
+                                <div class="col" style="color: #070707;">
+                                <p style="color: black;"><strong>Last Name</strong>&nbsp;<span class="text-danger" style="color: #070707;">*</span></p>
+                                <InputText class="form-control" placeholder="Ex. Deblois" id="@nameof(_selectedResidents.LastName)" @bind-Value="_residents.LastName"></InputText>
+                                </div>
+                                <div class="col" style="color: #070707;">
+                                 <p style="color: black;"><strong>Suffix</strong>&nbsp;<span class="text-danger" style="color: #070707;">*</span></p>
+                                <InputText class="form-control" placeholder="Ex. Jr." id="@nameof(_selectedResidents.Suffix)" @bind-Value="_residents.Suffix"></InputText>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="form-group mb-3" style="color: #070707;">
+                    <div class="row" style="color: #070707;">
+                        <div class="col" style="color: #070707;">
+                            <p style="margin-bottom: 3px;color: black;"><strong>Date Of Birth</strong>&nbsp;<span class="text-danger" style="color: #070707;">*</span></p>
+                        <InputText class="form-control" type="date" id="@nameof(_selectedResidents.BirthDate)" @bind-Value="_residents.BirthDate"></InputText>
+                        </div>
+                    </div>
+                </div>
+        <p style="margin-bottom: -1px;color: black;"><strong>Age</strong><span class="text-danger" style="color: #070707;">*</span></p>
+            <InputText class="form-control" type="number" placeholder="Ex. 11" id="@nameof(_selectedResidents.Age)" @bind-Value="_residents.Age"></InputText>
+                <div class="form-group mb-3" style="color: #070707;">
+
+                    <p style="margin-bottom: -1px;color: black;"><strong>Gender</strong><span class="text-danger" style="color: #070707;">*</span></p>
+                    <InputText class="form-control" placeholder="Ex. Male" id="@nameof(_selectedResidents.Gender)" @bind-Value="_residents.Gender"></InputText>
+                    <p style="color: black;"><strong>Civil status</strong></p>
+                    <InputText class="form-control" placeholder="Ex. single" id="@nameof(_selectedResidents.civilStatus)" @bind-Value="_residents.civilStatus"></InputText>
+                    <p style="color: black;"><strong>Religion</strong><span class="text-danger" style="color: #070707;">*</span></p>
+                    <InputText class="form-control" placeholder="Ex. Catholic" id="@nameof(_selectedResidents.Religion)" @bind-Value="_residents.Religion"></InputText>
+                    <p style="padding-bottom: 0px;margin-bottom: 9px;color: black;"><strong>Occupation&nbsp;</strong><span class="text-danger" style="color: #070707;">*</span></p>
+                    <InputText class="form-control" placeholder="Ex. Farmer" id="@nameof(_selectedResidents.Occupation)" @bind-Value="_residents.Occupation"></InputText>
+                    <div class="col-xl-12" style="color: #070707;">
+                    <p style="margin-top: 8px;color: black;"><strong>Fathers Name</strong><span class="text-danger" style="color: #070707;">*</span></p>
+                    <InputText class="form-control" placeholder="Ex. Juanito" id="@nameof(_selectedResidents.FathersName)" @bind-Value="_residents.FathersName"></InputText>
+                    </div>
+                    <div class="col-xl-12" style="color: #070707;">
+                    <p style="color: black;"><strong>Mothers Name</strong><span class="text-danger" style="color: #070707;">*</span></p>
+                    <InputText class="form-control" placeholder="Ex. angela" id="@nameof(_selectedResidents.MothersName)" @bind-Value="_residents.MothersName"></InputText>
+                    </div>
+                    <div class="col-xl-12" style="color: #070707;">
+                    <p style="color: black;"><strong>Head of Family</strong></p>
+                    <InputText class="form-control" placeholder="Ex. Juanito" id="@nameof(_selectedResidents.HeadOfFamily)" @bind-Value="_residents.HeadOfFamily"></InputText>
+                    </div>
+                    <div class="col-xl-12" style="color: #070707;">
+                    <p style="color: black;"><strong>Total Number of Family</strong><span class="text-danger" style="color: #070707;">*</span></p>
+                    <InputText class="form-control" type="number" placeholder="Ex. 5" id="@nameof(_selectedResidents.TotalNumberOfFamily)" @bind-Value="_residents.TotalNumberOfFamily"></InputText>
+                    </div>
+                    <p style="margin-bottom: 9px;padding-bottom: 0px;margin-top: 22px;padding-top: 0px;color: black;"><strong>Education Attainment&nbsp;</strong><span class="text-danger" style="color: #070707;">*</span></p>
+                <InputText class="form-control" placeholder="Ex. College" id="@nameof(_selectedResidents.EducationalAttainment)" @bind-Value="_residents.EducationalAttainment"></InputText>
+                    <p style="margin-bottom: 9px;padding-bottom: 0px;margin-top: 22px;padding-top: 0px; color: black;"><strong>Purok&nbsp;</strong><span class="text-danger" style="color: #070707;">*</span></p>
+                <InputText class="form-control" placeholder="Ex. Purok 1-A" id="@nameof(_selectedResidents.Purok)" @bind-Value="_residents.Purok"></InputText>
+                </div>
+                <div class="form-group mb-3" style="color: #070707;">
+                    <p style="color: #070707;"></p>
+                <p style="margin-bottom: -2px;margin-top: 16px;color: black;"><strong>Status Type*</strong></p>
+                <InputText class="form-control" placeholder="Ex. New born" id="@nameof(_selectedResidents.StatusType)" @bind-Value="_residents.StatusType"></InputText>
+                </div>
+                <div class="justify-content-center d-flex form-group mb-3" style="margin-left: -365px;margin-top: 42px;">
+                    <div id="submit-btn"></div><button class="btn btn-primary" type="submit" style="margin-left: 339px;">ADD</button><button class="btn btn-primary" type="reset" style="margin-left: 64px;">CANCEL</button>
+                </div>
+        </div>
+        <div class="col">
+            <h3 id="fail" class="text-center text-danger d-none"><br>Form not Submitted&nbsp;<a href="contact.html">Try Again</a><br><br></h3>
+            <h3 id="success-1" class="text-center text-success d-none"><br>Form Submitted Successfully&nbsp;<a href="contact.html">Send Another Response</a><br><br></h3>
+        </div>
+    </EditForm>
+    }
+
+
+
+@code {
+    private ResidentsModel _residents = new();
+    [Inject] private ResidentsManager _residentsManager { get; set; }
+    private IEnumerable<ResidentsModel> _residentsList { get; set; }
+
+    private bool _showHideResidentsList = false;
+    private ResidentsModel _selectedResidents = new ResidentsModel();
+
+    [Parameter]
+    public EventCallback<ResidentsModel> OnResidentsUpdated { get; set; }
+
+    [Parameter]
+    public ResidentsModel SelectedResidents
+    {
+        get => _selectedResidents;
+        set
+        {
+            _selectedResidents = value;
+            StateHasChanged();
+            OnResidentsUpdated.InvokeAsync(value);
+        }
+
+    }
+    protected override async Task OnInitializedAsync()
+    {
+
+        _residentsList = _residentsList ?? new List<ResidentsModel>
+        {
+            new ResidentsModel{ }
+        };
+
+        _residents = _residents ?? new ResidentsModel();
+
+
+        await base.OnInitializedAsync();
+    }
+
+    private async Task UpdateInsect()
+    {
+        if (_selectedResidents != null)
+        {
+            await _residentsManager.UpdateResidents(_selectedResidents);
+            await OnResidentsUpdated.InvokeAsync(_selectedResidents);
+        }
+    }
+
+
+
+}

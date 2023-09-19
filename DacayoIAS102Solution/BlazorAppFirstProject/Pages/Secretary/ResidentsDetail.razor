@@ -1,0 +1,73 @@
+﻿@page "/ResidentsDetail"
+@using BCBHPMSBlazor.Components
+@attribute [Route($"/{RouteConstants.RESIDENTS_DETAIL_ROUTE}")]
+@* @attribute [Authorize("Secretary")]
+ *@
+
+<Residents/>
+
+@code {
+    private ResidentsModel _residents = new();
+    [Inject] private ResidentsManager _residentsManager { get; set; }
+    private IEnumerable<ResidentsModel> _residentsDetail { get; set; }
+
+    private bool _showHideResidentsDetail = false;
+
+
+    private async Task CreateResidents()
+    {
+
+        ResidentsModel residents = new ResidentsModel
+            {
+                FirstName = _residents.FirstName,
+                MiddleName = _residents.MiddleName,
+                LastName = _residents.LastName,
+                Suffix = _residents.Suffix,
+                BirthDate = _residents.BirthDate,
+                Age = _residents.Age,
+                Gender = _residents.Gender,
+                civilStatus = _residents.civilStatus,
+                Religion = _residents.Religion,
+                Occupation = _residents.Occupation,
+                FathersName = _residents.FathersName,
+                MothersName = _residents.MothersName,
+                HeadOfFamily = _residents.HeadOfFamily,
+                TotalNumberOfFamily = _residents.TotalNumberOfFamily,
+                EducationalAttainment = _residents.EducationalAttainment,
+                Purok = _residents.Purok,
+                StatusType = _residents.StatusType
+            };
+        await _residentsManager.CreateResidents(residents, CancellationToken.None);
+    }
+
+    protected override async Task OnInitializedAsync()
+    {
+
+        _residentsDetail = _residentsDetail ?? new List<ResidentsModel>
+        {
+            new ResidentsModel{ }
+        };
+
+        _residents = _residents ?? new ResidentsModel();
+
+
+        await base.OnInitializedAsync();
+    }
+
+
+
+    private async Task ShowResidentsDetailClick()
+    {
+
+        _showHideResidentsDetail = !_showHideResidentsDetail;
+        if (_showHideResidentsDetail)
+        {
+            _residentsDetail = await _residentsManager.GetAllResidents();
+
+
+        };
+    }
+
+
+
+}

@@ -1,0 +1,1187 @@
+D:\Dacayo\ias-102\DacayoIAS102Solution\BlazorAppFirstProject\obj\Debug\net6.0\BCBHPMSBlazor.csproj.AssemblyReference.cache
+D:\Dacayo\ias-102\DacayoIAS102Solution\BlazorAppFirstProject\obj\Debug\net6.0\BCBHPMSBlazor.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dacayo\ias-102\DacayoIAS102Solution\BlazorAppFirstProject\obj\Debug\net6.0\BCBHPMSBlazor.AssemblyInfoInputs.cache
+D:\Dacayo\ias-102\DacayoIAS102Solution\BlazorAppFirstProject\obj\Debug\net6.0\BCBHPMSBlazor.AssemblyInfo.cs
+D:\Dacayo\ias-102\DacayoIAS102Solution\BlazorAppFirstProject\obj\Debug\net6.0\BCBHPMSBlazor.csproj.CoreCompileInputs.cache
+D:\Dacayo\ias-102\DacayoIAS102Solution\BlazorAppFirstProject\obj\Debug\net6.0\BCBHPMSBlazor.MvcApplicationPartsAssemblyInfo.cs
+D:\Dacayo\ias-102\DacayoIAS102Solution\BlazorAppFirstProject\obj\Debug\net6.0\BCBHPMSBlazor.MvcApplicationPartsAssemblyInfo.cache
+D:\Dacayo\ias-102\DacayoIAS102Solution\BlazorAppFirstProject\obj\Debug\net6.0\BCBHPMSBlazor.RazorAssemblyInfo.cache
+D:\Dacayo\ias-102\DacayoIAS102Solution\BlazorAppFirstProject\obj\Debug\net6.0\BCBHPMSBlazor.RazorAssemblyInfo.cs
+D:\Dacayo\ias-102\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\appsettings.Development.json
+D:\Dacayo\ias-102\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\appsettings.json
+D:\Dacayo\ias-102\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\BCBHPMSBlazor.staticwebassets.runtime.json
+D:\Dacayo\ias-102\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\BCBHPMSBlazor.exe
+D:\Dacayo\ias-102\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\BCBHPMSBlazor.deps.json
+D:\Dacayo\ias-102\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\BCBHPMSBlazor.runtimeconfig.json
+D:\Dacayo\ias-102\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\BCBHPMSBlazor.dll
+D:\Dacayo\ias-102\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\BCBHPMSBlazor.pdb
+D:\Dacayo\ias-102\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\Humanizer.dll
+D:\Dacayo\ias-102\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\MessagePack.dll
+D:\Dacayo\ias-102\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\MessagePack.Annotations.dll
+D:\Dacayo\ias-102\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.Google.dll
+D:\Dacayo\ias-102\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Dacayo\ias-102\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Dacayo\ias-102\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+D:\Dacayo\ias-102\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Dacayo\ias-102\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.UI.dll
+D:\Dacayo\ias-102\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\Dacayo\ias-102\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Dacayo\ias-102\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\Microsoft.Build.dll
+D:\Dacayo\ias-102\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+D:\Dacayo\ias-102\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\Dacayo\ias-102\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+D:\Dacayo\ias-102\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Dacayo\ias-102\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\Dacayo\ias-102\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Dacayo\ias-102\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Dacayo\ias-102\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+D:\Dacayo\ias-102\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+D:\Dacayo\ias-102\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\Dacayo\ias-102\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Dacayo\ias-102\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+D:\Dacayo\ias-102\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+D:\Dacayo\ias-102\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Dacayo\ias-102\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\Dacayo\ias-102\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Dacayo\ias-102\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+D:\Dacayo\ias-102\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\Dacayo\ias-102\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Dacayo\ias-102\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Dacayo\ias-102\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Dacayo\ias-102\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Dacayo\ias-102\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Dacayo\ias-102\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Dacayo\ias-102\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Dacayo\ias-102\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\Dacayo\ias-102\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+D:\Dacayo\ias-102\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+D:\Dacayo\ias-102\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Dacayo\ias-102\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Dacayo\ias-102\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Dacayo\ias-102\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Dacayo\ias-102\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Dacayo\ias-102\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Dacayo\ias-102\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+D:\Dacayo\ias-102\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+D:\Dacayo\ias-102\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Dacayo\ias-102\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Dacayo\ias-102\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+D:\Dacayo\ias-102\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Dacayo\ias-102\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Dacayo\ias-102\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Dacayo\ias-102\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Dacayo\ias-102\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Dacayo\ias-102\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Dacayo\ias-102\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\NuGet.Common.dll
+D:\Dacayo\ias-102\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\NuGet.Configuration.dll
+D:\Dacayo\ias-102\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+D:\Dacayo\ias-102\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\NuGet.Frameworks.dll
+D:\Dacayo\ias-102\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\NuGet.LibraryModel.dll
+D:\Dacayo\ias-102\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\NuGet.Packaging.dll
+D:\Dacayo\ias-102\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\NuGet.ProjectModel.dll
+D:\Dacayo\ias-102\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\NuGet.Protocol.dll
+D:\Dacayo\ias-102\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\NuGet.Versioning.dll
+D:\Dacayo\ias-102\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+D:\Dacayo\ias-102\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\System.Composition.Convention.dll
+D:\Dacayo\ias-102\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\System.Composition.Hosting.dll
+D:\Dacayo\ias-102\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\System.Composition.Runtime.dll
+D:\Dacayo\ias-102\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\System.Composition.TypedParts.dll
+D:\Dacayo\ias-102\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Dacayo\ias-102\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Dacayo\ias-102\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Dacayo\ias-102\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+D:\Dacayo\ias-102\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Dacayo\ias-102\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Dacayo\ias-102\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Dacayo\ias-102\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Dacayo\ias-102\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Dacayo\ias-102\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Dacayo\ias-102\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Dacayo\ias-102\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Dacayo\ias-102\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Dacayo\ias-102\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Dacayo\ias-102\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Dacayo\ias-102\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Dacayo\ias-102\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Dacayo\ias-102\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Dacayo\ias-102\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Dacayo\ias-102\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Dacayo\ias-102\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Dacayo\ias-102\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dacayo\ias-102\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dacayo\ias-102\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dacayo\ias-102\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dacayo\ias-102\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dacayo\ias-102\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dacayo\ias-102\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dacayo\ias-102\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dacayo\ias-102\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dacayo\ias-102\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dacayo\ias-102\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dacayo\ias-102\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dacayo\ias-102\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dacayo\ias-102\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Dacayo\ias-102\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Dacayo\ias-102\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Dacayo\ias-102\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Dacayo\ias-102\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Dacayo\ias-102\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Dacayo\ias-102\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Dacayo\ias-102\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Dacayo\ias-102\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Dacayo\ias-102\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Dacayo\ias-102\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Dacayo\ias-102\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Dacayo\ias-102\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Dacayo\ias-102\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Dacayo\ias-102\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Dacayo\ias-102\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Dacayo\ias-102\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Dacayo\ias-102\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Dacayo\ias-102\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Dacayo\ias-102\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Dacayo\ias-102\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Dacayo\ias-102\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Dacayo\ias-102\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Dacayo\ias-102\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Dacayo\ias-102\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Dacayo\ias-102\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Dacayo\ias-102\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dacayo\ias-102\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dacayo\ias-102\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dacayo\ias-102\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dacayo\ias-102\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dacayo\ias-102\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dacayo\ias-102\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dacayo\ias-102\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dacayo\ias-102\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dacayo\ias-102\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dacayo\ias-102\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dacayo\ias-102\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dacayo\ias-102\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dacayo\ias-102\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Dacayo\ias-102\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Dacayo\ias-102\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Dacayo\ias-102\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Dacayo\ias-102\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Dacayo\ias-102\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Dacayo\ias-102\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Dacayo\ias-102\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Dacayo\ias-102\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Dacayo\ias-102\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Dacayo\ias-102\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Dacayo\ias-102\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Dacayo\ias-102\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Dacayo\ias-102\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Dacayo\ias-102\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Dacayo\ias-102\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Dacayo\ias-102\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Dacayo\ias-102\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Dacayo\ias-102\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Dacayo\ias-102\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Dacayo\ias-102\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Dacayo\ias-102\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Dacayo\ias-102\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Dacayo\ias-102\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Dacayo\ias-102\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Dacayo\ias-102\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Dacayo\ias-102\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Dacayo\ias-102\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Dacayo\ias-102\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Dacayo\ias-102\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Dacayo\ias-102\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Dacayo\ias-102\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Dacayo\ias-102\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Dacayo\ias-102\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Dacayo\ias-102\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Dacayo\ias-102\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Dacayo\ias-102\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Dacayo\ias-102\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Dacayo\ias-102\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Dacayo\ias-102\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Dacayo\ias-102\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Dacayo\ias-102\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Dacayo\ias-102\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Dacayo\ias-102\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Dacayo\ias-102\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Dacayo\ias-102\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Dacayo\ias-102\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Dacayo\ias-102\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Dacayo\ias-102\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Dacayo\ias-102\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Dacayo\ias-102\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Dacayo\ias-102\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Dacayo\ias-102\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Dacayo\ias-102\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Dacayo\ias-102\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Dacayo\ias-102\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Dacayo\ias-102\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Dacayo\ias-102\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Dacayo\ias-102\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Dacayo\ias-102\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Dacayo\ias-102\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Dacayo\ias-102\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Dacayo\ias-102\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Dacayo\ias-102\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Dacayo\ias-102\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Dacayo\ias-102\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dacayo\ias-102\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dacayo\ias-102\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dacayo\ias-102\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dacayo\ias-102\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dacayo\ias-102\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dacayo\ias-102\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dacayo\ias-102\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dacayo\ias-102\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dacayo\ias-102\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dacayo\ias-102\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dacayo\ias-102\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dacayo\ias-102\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dacayo\ias-102\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Dacayo\ias-102\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Dacayo\ias-102\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Dacayo\ias-102\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Dacayo\ias-102\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Dacayo\ias-102\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Dacayo\ias-102\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Dacayo\ias-102\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Dacayo\ias-102\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Dacayo\ias-102\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Dacayo\ias-102\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Dacayo\ias-102\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Dacayo\ias-102\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Dacayo\ias-102\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Dacayo\ias-102\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Dacayo\ias-102\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Dacayo\ias-102\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Dacayo\ias-102\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Dacayo\ias-102\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Dacayo\ias-102\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Dacayo\ias-102\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Dacayo\ias-102\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Dacayo\ias-102\DacayoIAS102Solution\BlazorAppFirstProject\obj\Debug\net6.0\staticwebassets\msbuild.BCBHPMSBlazor.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Dacayo\ias-102\DacayoIAS102Solution\BlazorAppFirstProject\obj\Debug\net6.0\staticwebassets\msbuild.build.BCBHPMSBlazor.props
+D:\Dacayo\ias-102\DacayoIAS102Solution\BlazorAppFirstProject\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.BCBHPMSBlazor.props
+D:\Dacayo\ias-102\DacayoIAS102Solution\BlazorAppFirstProject\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.BCBHPMSBlazor.props
+D:\Dacayo\ias-102\DacayoIAS102Solution\BlazorAppFirstProject\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Dacayo\ias-102\DacayoIAS102Solution\BlazorAppFirstProject\obj\Debug\net6.0\staticwebassets.build.json
+D:\Dacayo\ias-102\DacayoIAS102Solution\BlazorAppFirstProject\obj\Debug\net6.0\staticwebassets.development.json
+D:\Dacayo\ias-102\DacayoIAS102Solution\BlazorAppFirstProject\obj\Debug\net6.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+D:\Dacayo\ias-102\DacayoIAS102Solution\BlazorAppFirstProject\obj\Debug\net6.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+D:\Dacayo\ias-102\DacayoIAS102Solution\BlazorAppFirstProject\obj\Debug\net6.0\scopedcss\bundle\BCBHPMSBlazor.styles.css
+D:\Dacayo\ias-102\DacayoIAS102Solution\BlazorAppFirstProject\obj\Debug\net6.0\scopedcss\projectbundle\BCBHPMSBlazor.bundle.scp.css
+D:\Dacayo\ias-102\DacayoIAS102Solution\BlazorAppFirstProject\obj\Debug\net6.0\BCBHPMSBlazor.csproj.CopyComplete
+D:\Dacayo\ias-102\DacayoIAS102Solution\BlazorAppFirstProject\obj\Debug\net6.0\BCBHPMSBlazor.dll
+D:\Dacayo\ias-102\DacayoIAS102Solution\BlazorAppFirstProject\obj\Debug\net6.0\refint\BCBHPMSBlazor.dll
+D:\Dacayo\ias-102\DacayoIAS102Solution\BlazorAppFirstProject\obj\Debug\net6.0\BCBHPMSBlazor.pdb
+D:\Dacayo\ias-102\DacayoIAS102Solution\BlazorAppFirstProject\obj\Debug\net6.0\BCBHPMSBlazor.genruntimeconfig.cache
+D:\Dacayo\ias-102\DacayoIAS102Solution\BlazorAppFirstProject\obj\Debug\net6.0\ref\BCBHPMSBlazor.dll
+D:\Dacayo\ias-102\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\Azure.Core.dll
+D:\Dacayo\ias-102\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\Azure.Identity.dll
+D:\Dacayo\ias-102\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\Dapper.dll
+D:\Dacayo\ias-102\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Dacayo\ias-102\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\Dacayo\ias-102\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Dacayo\ias-102\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Dacayo\ias-102\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\Dacayo\ias-102\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\System.Memory.Data.dll
+D:\Dacayo\ias-102\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Dacayo\ias-102\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Dacayo\ias-102\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Dacayo\ias-102\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\BCBLibrary.dll
+D:\Dacayo\ias-102\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\BCBLibrary.pdb
+E:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\obj\Debug\net6.0\BCBHPMSBlazor.dll
+E:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\obj\Debug\net6.0\refint\BCBHPMSBlazor.dll
+E:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\obj\Debug\net6.0\BCBHPMSBlazor.pdb
+D:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\obj\Debug\net6.0\BCBHPMSBlazor.csproj.AssemblyReference.cache
+D:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\obj\Debug\net6.0\BCBHPMSBlazor.GeneratedMSBuildEditorConfig.editorconfig
+D:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\obj\Debug\net6.0\BCBHPMSBlazor.AssemblyInfoInputs.cache
+D:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\obj\Debug\net6.0\BCBHPMSBlazor.AssemblyInfo.cs
+D:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\obj\Debug\net6.0\BCBHPMSBlazor.csproj.CoreCompileInputs.cache
+D:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\obj\Debug\net6.0\BCBHPMSBlazor.MvcApplicationPartsAssemblyInfo.cs
+D:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\obj\Debug\net6.0\BCBHPMSBlazor.MvcApplicationPartsAssemblyInfo.cache
+D:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\obj\Debug\net6.0\BCBHPMSBlazor.RazorAssemblyInfo.cache
+D:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\obj\Debug\net6.0\BCBHPMSBlazor.RazorAssemblyInfo.cs
+D:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\obj\Debug\net6.0\BCBHPMSBlazor.dll
+D:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\obj\Debug\net6.0\refint\BCBHPMSBlazor.dll
+D:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\obj\Debug\net6.0\BCBHPMSBlazor.pdb
+D:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\appsettings.Development.json
+D:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\appsettings.json
+D:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\BCBHPMSBlazor.staticwebassets.runtime.json
+D:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\BCBHPMSBlazor.exe
+D:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\BCBHPMSBlazor.deps.json
+D:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\BCBHPMSBlazor.runtimeconfig.json
+D:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\BCBHPMSBlazor.dll
+D:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\BCBHPMSBlazor.pdb
+D:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\Azure.Core.dll
+D:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\Azure.Identity.dll
+D:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\Dapper.dll
+D:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\Humanizer.dll
+D:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\MessagePack.dll
+D:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\MessagePack.Annotations.dll
+D:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.Google.dll
+D:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+D:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.UI.dll
+D:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\Microsoft.Build.dll
+D:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+D:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+D:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+D:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+D:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+D:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+D:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+D:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+D:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+D:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+D:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+D:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+D:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\NuGet.Common.dll
+D:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\NuGet.Configuration.dll
+D:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+D:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\NuGet.Frameworks.dll
+D:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\NuGet.LibraryModel.dll
+D:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\NuGet.Packaging.dll
+D:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\NuGet.ProjectModel.dll
+D:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\NuGet.Protocol.dll
+D:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\NuGet.Versioning.dll
+D:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+D:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\System.Composition.Convention.dll
+D:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\System.Composition.Hosting.dll
+D:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\System.Composition.Runtime.dll
+D:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\System.Composition.TypedParts.dll
+D:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\System.Memory.Data.dll
+D:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+D:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\BCBLibrary.dll
+D:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\BCBLibrary.pdb
+D:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\obj\Debug\net6.0\staticwebassets\msbuild.BCBHPMSBlazor.Microsoft.AspNetCore.StaticWebAssets.props
+D:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\obj\Debug\net6.0\staticwebassets\msbuild.build.BCBHPMSBlazor.props
+D:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.BCBHPMSBlazor.props
+D:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.BCBHPMSBlazor.props
+D:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\obj\Debug\net6.0\staticwebassets.pack.json
+D:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\obj\Debug\net6.0\staticwebassets.build.json
+D:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\obj\Debug\net6.0\staticwebassets.development.json
+D:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\obj\Debug\net6.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+D:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\obj\Debug\net6.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+D:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\obj\Debug\net6.0\scopedcss\bundle\BCBHPMSBlazor.styles.css
+D:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\obj\Debug\net6.0\scopedcss\projectbundle\BCBHPMSBlazor.bundle.scp.css
+D:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\obj\Debug\net6.0\BCBHPMSBlazor.csproj.CopyComplete
+D:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\obj\Debug\net6.0\BCBHPMSBlazor.genruntimeconfig.cache
+D:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\obj\Debug\net6.0\ref\BCBHPMSBlazor.dll
+E:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\obj\Debug\net6.0\BCBHPMSBlazor.csproj.AssemblyReference.cache
+E:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\obj\Debug\net6.0\BCBHPMSBlazor.GeneratedMSBuildEditorConfig.editorconfig
+E:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\obj\Debug\net6.0\BCBHPMSBlazor.AssemblyInfoInputs.cache
+E:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\obj\Debug\net6.0\BCBHPMSBlazor.AssemblyInfo.cs
+E:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\obj\Debug\net6.0\BCBHPMSBlazor.csproj.CoreCompileInputs.cache
+E:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\obj\Debug\net6.0\BCBHPMSBlazor.MvcApplicationPartsAssemblyInfo.cs
+E:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\obj\Debug\net6.0\BCBHPMSBlazor.MvcApplicationPartsAssemblyInfo.cache
+E:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\obj\Debug\net6.0\BCBHPMSBlazor.RazorAssemblyInfo.cache
+E:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\obj\Debug\net6.0\BCBHPMSBlazor.RazorAssemblyInfo.cs
+E:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\appsettings.Development.json
+E:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\appsettings.json
+E:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\BCBHPMSBlazor.staticwebassets.runtime.json
+E:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\BCBHPMSBlazor.exe
+E:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\BCBHPMSBlazor.deps.json
+E:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\BCBHPMSBlazor.runtimeconfig.json
+E:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\BCBHPMSBlazor.dll
+E:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\BCBHPMSBlazor.pdb
+E:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\Azure.Core.dll
+E:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\Azure.Identity.dll
+E:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\Dapper.dll
+E:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\Humanizer.dll
+E:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\MessagePack.dll
+E:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\MessagePack.Annotations.dll
+E:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.Google.dll
+E:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+E:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.UI.dll
+E:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+E:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\Microsoft.Build.dll
+E:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+E:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+E:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+E:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+E:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+E:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+E:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+E:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+E:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+E:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+E:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+E:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+E:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Embedded.dll
+E:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+E:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+E:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+E:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+E:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+E:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+E:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+E:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+E:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\NuGet.Common.dll
+E:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\NuGet.Configuration.dll
+E:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+E:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\NuGet.Frameworks.dll
+E:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\NuGet.LibraryModel.dll
+E:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\NuGet.Packaging.dll
+E:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\NuGet.ProjectModel.dll
+E:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\NuGet.Protocol.dll
+E:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\NuGet.Versioning.dll
+E:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+E:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\System.Composition.Convention.dll
+E:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\System.Composition.Hosting.dll
+E:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\System.Composition.Runtime.dll
+E:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\System.Composition.TypedParts.dll
+E:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\System.Memory.Data.dll
+E:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+E:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+E:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+E:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+E:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+E:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+E:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+E:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+E:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+E:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+E:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+E:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+E:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+E:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+E:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\BCBLibrary.dll
+E:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\BCBLibrary.pdb
+E:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\obj\Debug\net6.0\staticwebassets\msbuild.BCBHPMSBlazor.Microsoft.AspNetCore.StaticWebAssets.props
+E:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\obj\Debug\net6.0\staticwebassets\msbuild.build.BCBHPMSBlazor.props
+E:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.BCBHPMSBlazor.props
+E:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.BCBHPMSBlazor.props
+E:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\obj\Debug\net6.0\staticwebassets.pack.json
+E:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\obj\Debug\net6.0\staticwebassets.build.json
+E:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\obj\Debug\net6.0\staticwebassets.development.json
+E:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\obj\Debug\net6.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+E:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\obj\Debug\net6.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+E:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\obj\Debug\net6.0\scopedcss\bundle\BCBHPMSBlazor.styles.css
+E:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\obj\Debug\net6.0\scopedcss\projectbundle\BCBHPMSBlazor.bundle.scp.css
+E:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\obj\Debug\net6.0\BCBHPMSBlazor.csproj.CopyComplete
+E:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\obj\Debug\net6.0\BCBHPMSBlazor.genruntimeconfig.cache
+E:\BCB Project\DacayoIAS102Solution\BlazorAppFirstProject\obj\Debug\net6.0\ref\BCBHPMSBlazor.dll
+E:\BCB Project\BCB\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\appsettings.Development.json
+E:\BCB Project\BCB\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\appsettings.json
+E:\BCB Project\BCB\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\BCBHPMSBlazor.staticwebassets.runtime.json
+E:\BCB Project\BCB\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\BCBHPMSBlazor.exe
+E:\BCB Project\BCB\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\BCBHPMSBlazor.deps.json
+E:\BCB Project\BCB\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\BCBHPMSBlazor.runtimeconfig.json
+E:\BCB Project\BCB\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\BCBHPMSBlazor.dll
+E:\BCB Project\BCB\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\BCBHPMSBlazor.pdb
+E:\BCB Project\BCB\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\Azure.Core.dll
+E:\BCB Project\BCB\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\Azure.Identity.dll
+E:\BCB Project\BCB\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\Dapper.dll
+E:\BCB Project\BCB\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\Humanizer.dll
+E:\BCB Project\BCB\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\MessagePack.dll
+E:\BCB Project\BCB\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\MessagePack.Annotations.dll
+E:\BCB Project\BCB\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.Google.dll
+E:\BCB Project\BCB\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\BCB Project\BCB\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\BCB Project\BCB\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+E:\BCB Project\BCB\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\BCB Project\BCB\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.UI.dll
+E:\BCB Project\BCB\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+E:\BCB Project\BCB\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\BCB Project\BCB\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\Microsoft.Build.dll
+E:\BCB Project\BCB\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+E:\BCB Project\BCB\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+E:\BCB Project\BCB\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+E:\BCB Project\BCB\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\BCB Project\BCB\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+E:\BCB Project\BCB\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\BCB Project\BCB\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\BCB Project\BCB\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+E:\BCB Project\BCB\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+E:\BCB Project\BCB\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+E:\BCB Project\BCB\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\BCB Project\BCB\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+E:\BCB Project\BCB\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+E:\BCB Project\BCB\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\BCB Project\BCB\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+E:\BCB Project\BCB\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\BCB Project\BCB\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+E:\BCB Project\BCB\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+E:\BCB Project\BCB\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\BCB Project\BCB\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\BCB Project\BCB\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\BCB Project\BCB\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\BCB Project\BCB\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\BCB Project\BCB\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\BCB Project\BCB\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\BCB Project\BCB\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\BCB Project\BCB\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Embedded.dll
+E:\BCB Project\BCB\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+E:\BCB Project\BCB\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+E:\BCB Project\BCB\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+E:\BCB Project\BCB\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\BCB Project\BCB\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\BCB Project\BCB\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+E:\BCB Project\BCB\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\BCB Project\BCB\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\BCB Project\BCB\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\BCB Project\BCB\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\BCB Project\BCB\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\BCB Project\BCB\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+E:\BCB Project\BCB\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+E:\BCB Project\BCB\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+E:\BCB Project\BCB\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\BCB Project\BCB\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\BCB Project\BCB\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+E:\BCB Project\BCB\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\BCB Project\BCB\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\BCB Project\BCB\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\BCB Project\BCB\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\BCB Project\BCB\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\BCB Project\BCB\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\BCB Project\BCB\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\NuGet.Common.dll
+E:\BCB Project\BCB\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\NuGet.Configuration.dll
+E:\BCB Project\BCB\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+E:\BCB Project\BCB\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\NuGet.Frameworks.dll
+E:\BCB Project\BCB\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\NuGet.LibraryModel.dll
+E:\BCB Project\BCB\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\NuGet.Packaging.dll
+E:\BCB Project\BCB\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\NuGet.ProjectModel.dll
+E:\BCB Project\BCB\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\NuGet.Protocol.dll
+E:\BCB Project\BCB\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\NuGet.Versioning.dll
+E:\BCB Project\BCB\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+E:\BCB Project\BCB\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\System.Composition.Convention.dll
+E:\BCB Project\BCB\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\System.Composition.Hosting.dll
+E:\BCB Project\BCB\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\System.Composition.Runtime.dll
+E:\BCB Project\BCB\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\System.Composition.TypedParts.dll
+E:\BCB Project\BCB\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\BCB Project\BCB\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\BCB Project\BCB\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\BCB Project\BCB\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\System.Memory.Data.dll
+E:\BCB Project\BCB\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+E:\BCB Project\BCB\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\BCB Project\BCB\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\BCB Project\BCB\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\BCB Project\BCB\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\BCB Project\BCB\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\BCB Project\BCB\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\BCB Project\BCB\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\BCB Project\BCB\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\BCB Project\BCB\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\BCB Project\BCB\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\BCB Project\BCB\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\BCB Project\BCB\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\BCB Project\BCB\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\BCB Project\BCB\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\BCB Project\BCB\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\BCB Project\BCB\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\BCB Project\BCB\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\BCB Project\BCB\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\BCB Project\BCB\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\BCB Project\BCB\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\BCB Project\BCB\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\BCB Project\BCB\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\BCB Project\BCB\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\BCB Project\BCB\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\BCB Project\BCB\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\BCB Project\BCB\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\BCB Project\BCB\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\BCB Project\BCB\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\BCB Project\BCB\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\BCB Project\BCB\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\BCB Project\BCB\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\BCB Project\BCB\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\BCB Project\BCB\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\BCB Project\BCB\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\BCB Project\BCB\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\BCB Project\BCB\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\BCB Project\BCB\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\BCB Project\BCB\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\BCB Project\BCB\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\BCB Project\BCB\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\BCB Project\BCB\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\BCB Project\BCB\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\BCB Project\BCB\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\BCB Project\BCB\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\BCB Project\BCB\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\BCB Project\BCB\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\BCB Project\BCB\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\BCB Project\BCB\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\BCB Project\BCB\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\BCB Project\BCB\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\BCB Project\BCB\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\BCB Project\BCB\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\BCB Project\BCB\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\BCB Project\BCB\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\BCB Project\BCB\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\BCB Project\BCB\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\BCB Project\BCB\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\BCB Project\BCB\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\BCB Project\BCB\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\BCB Project\BCB\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\BCB Project\BCB\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\BCB Project\BCB\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\BCB Project\BCB\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\BCB Project\BCB\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\BCB Project\BCB\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\BCB Project\BCB\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\BCB Project\BCB\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\BCB Project\BCB\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\BCB Project\BCB\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\BCB Project\BCB\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+E:\BCB Project\BCB\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+E:\BCB Project\BCB\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+E:\BCB Project\BCB\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+E:\BCB Project\BCB\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+E:\BCB Project\BCB\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+E:\BCB Project\BCB\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+E:\BCB Project\BCB\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+E:\BCB Project\BCB\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+E:\BCB Project\BCB\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+E:\BCB Project\BCB\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+E:\BCB Project\BCB\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+E:\BCB Project\BCB\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+E:\BCB Project\BCB\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\BCB Project\BCB\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\BCB Project\BCB\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\BCB Project\BCB\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\BCB Project\BCB\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\BCB Project\BCB\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\BCB Project\BCB\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\BCB Project\BCB\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\BCB Project\BCB\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\BCB Project\BCB\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\BCB Project\BCB\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\BCB Project\BCB\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\BCB Project\BCB\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\BCB Project\BCB\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\BCB Project\BCB\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\BCB Project\BCB\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\BCB Project\BCB\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\BCB Project\BCB\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\BCB Project\BCB\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\BCB Project\BCB\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\BCB Project\BCB\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\BCB Project\BCB\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\BCB Project\BCB\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\BCB Project\BCB\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\BCB Project\BCB\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\BCB Project\BCB\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\BCB Project\BCB\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\BCB Project\BCB\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\BCB Project\BCB\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\BCB Project\BCB\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\BCB Project\BCB\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\BCB Project\BCB\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\BCB Project\BCB\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\BCB Project\BCB\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\BCB Project\BCB\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\BCB Project\BCB\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\BCB Project\BCB\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\BCB Project\BCB\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\BCB Project\BCB\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\BCB Project\BCB\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\BCB Project\BCB\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\BCB Project\BCB\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\BCB Project\BCB\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\BCB Project\BCB\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\BCB Project\BCB\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\BCB Project\BCB\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\BCB Project\BCB\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\BCB Project\BCB\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\BCB Project\BCB\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\BCB Project\BCB\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\BCB Project\BCB\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\BCB Project\BCB\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\BCB Project\BCB\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\BCB Project\BCB\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\BCB Project\BCB\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\BCB Project\BCB\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\BCB Project\BCB\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\BCB Project\BCB\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\BCB Project\BCB\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\BCB Project\BCB\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\BCB Project\BCB\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\BCB Project\BCB\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\BCB Project\BCB\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\BCB Project\BCB\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\BCB Project\BCB\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\BCB Project\BCB\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\BCB Project\BCB\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\BCB Project\BCB\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\BCB Project\BCB\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\BCB Project\BCB\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\BCB Project\BCB\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\BCB Project\BCB\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\BCB Project\BCB\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\BCB Project\BCB\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\BCB Project\BCB\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\BCB Project\BCB\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\BCB Project\BCB\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\BCB Project\BCB\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\BCB Project\BCB\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\BCB Project\BCB\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\BCB Project\BCB\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\BCB Project\BCB\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\BCB Project\BCB\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\BCB Project\BCB\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\BCB Project\BCB\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\BCB Project\BCB\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\BCB Project\BCB\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\BCB Project\BCB\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\BCB Project\BCB\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\BCB Project\BCB\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\BCB Project\BCB\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\BCBLibrary.dll
+E:\BCB Project\BCB\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\BCBLibrary.pdb
+E:\BCB Project\BCB\DacayoIAS102Solution\BlazorAppFirstProject\obj\Debug\net6.0\BCBHPMSBlazor.csproj.AssemblyReference.cache
+E:\BCB Project\BCB\DacayoIAS102Solution\BlazorAppFirstProject\obj\Debug\net6.0\BCBHPMSBlazor.GeneratedMSBuildEditorConfig.editorconfig
+E:\BCB Project\BCB\DacayoIAS102Solution\BlazorAppFirstProject\obj\Debug\net6.0\BCBHPMSBlazor.AssemblyInfoInputs.cache
+E:\BCB Project\BCB\DacayoIAS102Solution\BlazorAppFirstProject\obj\Debug\net6.0\BCBHPMSBlazor.AssemblyInfo.cs
+E:\BCB Project\BCB\DacayoIAS102Solution\BlazorAppFirstProject\obj\Debug\net6.0\BCBHPMSBlazor.csproj.CoreCompileInputs.cache
+E:\BCB Project\BCB\DacayoIAS102Solution\BlazorAppFirstProject\obj\Debug\net6.0\BCBHPMSBlazor.MvcApplicationPartsAssemblyInfo.cs
+E:\BCB Project\BCB\DacayoIAS102Solution\BlazorAppFirstProject\obj\Debug\net6.0\BCBHPMSBlazor.MvcApplicationPartsAssemblyInfo.cache
+E:\BCB Project\BCB\DacayoIAS102Solution\BlazorAppFirstProject\obj\Debug\net6.0\BCBHPMSBlazor.RazorAssemblyInfo.cache
+E:\BCB Project\BCB\DacayoIAS102Solution\BlazorAppFirstProject\obj\Debug\net6.0\BCBHPMSBlazor.RazorAssemblyInfo.cs
+E:\BCB Project\BCB\DacayoIAS102Solution\BlazorAppFirstProject\obj\Debug\net6.0\staticwebassets\msbuild.BCBHPMSBlazor.Microsoft.AspNetCore.StaticWebAssets.props
+E:\BCB Project\BCB\DacayoIAS102Solution\BlazorAppFirstProject\obj\Debug\net6.0\staticwebassets\msbuild.build.BCBHPMSBlazor.props
+E:\BCB Project\BCB\DacayoIAS102Solution\BlazorAppFirstProject\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.BCBHPMSBlazor.props
+E:\BCB Project\BCB\DacayoIAS102Solution\BlazorAppFirstProject\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.BCBHPMSBlazor.props
+E:\BCB Project\BCB\DacayoIAS102Solution\BlazorAppFirstProject\obj\Debug\net6.0\staticwebassets.pack.json
+E:\BCB Project\BCB\DacayoIAS102Solution\BlazorAppFirstProject\obj\Debug\net6.0\staticwebassets.build.json
+E:\BCB Project\BCB\DacayoIAS102Solution\BlazorAppFirstProject\obj\Debug\net6.0\staticwebassets.development.json
+E:\BCB Project\BCB\DacayoIAS102Solution\BlazorAppFirstProject\obj\Debug\net6.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+E:\BCB Project\BCB\DacayoIAS102Solution\BlazorAppFirstProject\obj\Debug\net6.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+E:\BCB Project\BCB\DacayoIAS102Solution\BlazorAppFirstProject\obj\Debug\net6.0\scopedcss\bundle\BCBHPMSBlazor.styles.css
+E:\BCB Project\BCB\DacayoIAS102Solution\BlazorAppFirstProject\obj\Debug\net6.0\scopedcss\projectbundle\BCBHPMSBlazor.bundle.scp.css
+E:\BCB Project\BCB\DacayoIAS102Solution\BlazorAppFirstProject\obj\Debug\net6.0\BCBHPMSBlazor.csproj.CopyComplete
+E:\BCB Project\BCB\DacayoIAS102Solution\BlazorAppFirstProject\obj\Debug\net6.0\BCBHPMSBlazor.dll
+E:\BCB Project\BCB\DacayoIAS102Solution\BlazorAppFirstProject\obj\Debug\net6.0\refint\BCBHPMSBlazor.dll
+E:\BCB Project\BCB\DacayoIAS102Solution\BlazorAppFirstProject\obj\Debug\net6.0\BCBHPMSBlazor.pdb
+E:\BCB Project\BCB\DacayoIAS102Solution\BlazorAppFirstProject\obj\Debug\net6.0\BCBHPMSBlazor.genruntimeconfig.cache
+E:\BCB Project\BCB\DacayoIAS102Solution\BlazorAppFirstProject\obj\Debug\net6.0\ref\BCBHPMSBlazor.dll
+E:\BCB Project\BCB\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\Microsoft.AspNetCore.Authorization.dll
+E:\BCB Project\BCB\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\Microsoft.AspNetCore.Components.dll
+E:\BCB Project\BCB\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\Microsoft.AspNetCore.Components.Forms.dll
+E:\BCB Project\BCB\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\Microsoft.AspNetCore.Components.Web.dll
+E:\BCB Project\BCB\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\Microsoft.AspNetCore.Metadata.dll
+E:\BCB Project\BCB\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\BCB Project\BCB\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\Microsoft.JSInterop.dll
+E:\BCB Project\BCB\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\Syncfusion.Blazor.Buttons.dll
+E:\BCB Project\BCB\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\Syncfusion.Blazor.Core.dll
+E:\BCB Project\BCB\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\Syncfusion.Blazor.Data.dll
+E:\BCB Project\BCB\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\Syncfusion.Blazor.DropDowns.dll
+E:\BCB Project\BCB\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\Syncfusion.Blazor.Inputs.dll
+E:\BCB Project\BCB\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\Syncfusion.Blazor.Notifications.dll
+E:\BCB Project\BCB\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\Syncfusion.Blazor.Popups.dll
+E:\BCB Project\BCB\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\Syncfusion.Blazor.Spinner.dll
+E:\BCB Project\BCB\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\Syncfusion.Blazor.SplitButtons.dll
+E:\BCB Project\BCB\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\Syncfusion.Licensing.dll
+E:\BCB Project\BCB\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\System.IO.Pipelines.dll
+E:\BCB Project\BCB\DacayoIAS102Solution\BlazorAppFirstProject\bin\Debug\net6.0\BlazorBootstrap.dll

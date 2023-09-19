@@ -1,0 +1,277 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\BCB Project\\BCB\\DacayoIAS102Solution\\BlazorAppFirstProject\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\BCBHPMSBlazor.bundle.scp.css",
+      "PackagePath": "staticwebassets\\BCBHPMSBlazor.bundle.scp.css"
+    },
+    {
+      "Id": "E:\\BCB Project\\BCB\\DacayoIAS102Solution\\BlazorAppFirstProject\\wwwroot\\Js\\JavaScript.js",
+      "PackagePath": "staticwebassets\\Js\\JavaScript.js"
+    },
+    {
+      "Id": "E:\\BCB Project\\BCB\\DacayoIAS102Solution\\BlazorAppFirstProject\\wwwroot\\assets - 2\\bootstrap\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\assets - 2\\bootstrap\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\BCB Project\\BCB\\DacayoIAS102Solution\\BlazorAppFirstProject\\wwwroot\\assets - 2\\bootstrap\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\assets - 2\\bootstrap\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "E:\\BCB Project\\BCB\\DacayoIAS102Solution\\BlazorAppFirstProject\\wwwroot\\assets - 2\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\assets - 2\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "E:\\BCB Project\\BCB\\DacayoIAS102Solution\\BlazorAppFirstProject\\wwwroot\\assets - 2\\fonts\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\assets - 2\\fonts\\font-awesome.min.css"
+    },
+    {
+      "Id": "E:\\BCB Project\\BCB\\DacayoIAS102Solution\\BlazorAppFirstProject\\wwwroot\\assets - 2\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\assets - 2\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "E:\\BCB Project\\BCB\\DacayoIAS102Solution\\BlazorAppFirstProject\\wwwroot\\assets - 2\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\assets - 2\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "E:\\BCB Project\\BCB\\DacayoIAS102Solution\\BlazorAppFirstProject\\wwwroot\\assets - 2\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\assets - 2\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "E:\\BCB Project\\BCB\\DacayoIAS102Solution\\BlazorAppFirstProject\\wwwroot\\assets - 2\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\assets - 2\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "E:\\BCB Project\\BCB\\DacayoIAS102Solution\\BlazorAppFirstProject\\wwwroot\\assets - 2\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\assets - 2\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "E:\\BCB Project\\BCB\\DacayoIAS102Solution\\BlazorAppFirstProject\\wwwroot\\assets - 2\\img\\blob.svg",
+      "PackagePath": "staticwebassets\\assets - 2\\img\\blob.svg"
+    },
+    {
+      "Id": "E:\\BCB Project\\BCB\\DacayoIAS102Solution\\BlazorAppFirstProject\\wwwroot\\assets - 2\\img\\brands\\apple.png",
+      "PackagePath": "staticwebassets\\assets - 2\\img\\brands\\apple.png"
+    },
+    {
+      "Id": "E:\\BCB Project\\BCB\\DacayoIAS102Solution\\BlazorAppFirstProject\\wwwroot\\assets - 2\\img\\brands\\facebook.png",
+      "PackagePath": "staticwebassets\\assets - 2\\img\\brands\\facebook.png"
+    },
+    {
+      "Id": "E:\\BCB Project\\BCB\\DacayoIAS102Solution\\BlazorAppFirstProject\\wwwroot\\assets - 2\\img\\brands\\google.png",
+      "PackagePath": "staticwebassets\\assets - 2\\img\\brands\\google.png"
+    },
+    {
+      "Id": "E:\\BCB Project\\BCB\\DacayoIAS102Solution\\BlazorAppFirstProject\\wwwroot\\assets - 2\\img\\brands\\microsoft.png",
+      "PackagePath": "staticwebassets\\assets - 2\\img\\brands\\microsoft.png"
+    },
+    {
+      "Id": "E:\\BCB Project\\BCB\\DacayoIAS102Solution\\BlazorAppFirstProject\\wwwroot\\assets - 2\\img\\brands\\twitter.png",
+      "PackagePath": "staticwebassets\\assets - 2\\img\\brands\\twitter.png"
+    },
+    {
+      "Id": "E:\\BCB Project\\BCB\\DacayoIAS102Solution\\BlazorAppFirstProject\\wwwroot\\assets - 2\\img\\clipboard-image.png",
+      "PackagePath": "staticwebassets\\assets - 2\\img\\clipboard-image.png"
+    },
+    {
+      "Id": "E:\\BCB Project\\BCB\\DacayoIAS102Solution\\BlazorAppFirstProject\\wwwroot\\assets - 2\\img\\phone-screen.png",
+      "PackagePath": "staticwebassets\\assets - 2\\img\\phone-screen.png"
+    },
+    {
+      "Id": "E:\\BCB Project\\BCB\\DacayoIAS102Solution\\BlazorAppFirstProject\\wwwroot\\assets - 2\\img\\products\\1.jpg",
+      "PackagePath": "staticwebassets\\assets - 2\\img\\products\\1.jpg"
+    },
+    {
+      "Id": "E:\\BCB Project\\BCB\\DacayoIAS102Solution\\BlazorAppFirstProject\\wwwroot\\assets - 2\\img\\products\\2.jpg",
+      "PackagePath": "staticwebassets\\assets - 2\\img\\products\\2.jpg"
+    },
+    {
+      "Id": "E:\\BCB Project\\BCB\\DacayoIAS102Solution\\BlazorAppFirstProject\\wwwroot\\assets - 2\\img\\products\\3.jpg",
+      "PackagePath": "staticwebassets\\assets - 2\\img\\products\\3.jpg"
+    },
+    {
+      "Id": "E:\\BCB Project\\BCB\\DacayoIAS102Solution\\BlazorAppFirstProject\\wwwroot\\assets - 2\\img\\team\\avatar2.jpg",
+      "PackagePath": "staticwebassets\\assets - 2\\img\\team\\avatar2.jpg"
+    },
+    {
+      "Id": "E:\\BCB Project\\BCB\\DacayoIAS102Solution\\BlazorAppFirstProject\\wwwroot\\assets - 2\\img\\team\\avatar4.jpg",
+      "PackagePath": "staticwebassets\\assets - 2\\img\\team\\avatar4.jpg"
+    },
+    {
+      "Id": "E:\\BCB Project\\BCB\\DacayoIAS102Solution\\BlazorAppFirstProject\\wwwroot\\assets - 2\\img\\team\\avatar5.jpg",
+      "PackagePath": "staticwebassets\\assets - 2\\img\\team\\avatar5.jpg"
+    },
+    {
+      "Id": "E:\\BCB Project\\BCB\\DacayoIAS102Solution\\BlazorAppFirstProject\\wwwroot\\assets - 2\\js\\bold-and-dark.js",
+      "PackagePath": "staticwebassets\\assets - 2\\js\\bold-and-dark.js"
+    },
+    {
+      "Id": "E:\\BCB Project\\BCB\\DacayoIAS102Solution\\BlazorAppFirstProject\\wwwroot\\assets - 2\\js\\bs-init.js",
+      "PackagePath": "staticwebassets\\assets - 2\\js\\bs-init.js"
+    },
+    {
+      "Id": "E:\\BCB Project\\BCB\\DacayoIAS102Solution\\BlazorAppFirstProject\\wwwroot\\assets\\bootstrap\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\assets\\bootstrap\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\BCB Project\\BCB\\DacayoIAS102Solution\\BlazorAppFirstProject\\wwwroot\\assets\\bootstrap\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\assets\\bootstrap\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "E:\\BCB Project\\BCB\\DacayoIAS102Solution\\BlazorAppFirstProject\\wwwroot\\assets\\img\\brands\\apple.png",
+      "PackagePath": "staticwebassets\\assets\\img\\brands\\apple.png"
+    },
+    {
+      "Id": "E:\\BCB Project\\BCB\\DacayoIAS102Solution\\BlazorAppFirstProject\\wwwroot\\assets\\img\\brands\\facebook.png",
+      "PackagePath": "staticwebassets\\assets\\img\\brands\\facebook.png"
+    },
+    {
+      "Id": "E:\\BCB Project\\BCB\\DacayoIAS102Solution\\BlazorAppFirstProject\\wwwroot\\assets\\img\\brands\\google.png",
+      "PackagePath": "staticwebassets\\assets\\img\\brands\\google.png"
+    },
+    {
+      "Id": "E:\\BCB Project\\BCB\\DacayoIAS102Solution\\BlazorAppFirstProject\\wwwroot\\assets\\img\\brands\\microsoft.png",
+      "PackagePath": "staticwebassets\\assets\\img\\brands\\microsoft.png"
+    },
+    {
+      "Id": "E:\\BCB Project\\BCB\\DacayoIAS102Solution\\BlazorAppFirstProject\\wwwroot\\assets\\img\\brands\\twitter.png",
+      "PackagePath": "staticwebassets\\assets\\img\\brands\\twitter.png"
+    },
+    {
+      "Id": "E:\\BCB Project\\BCB\\DacayoIAS102Solution\\BlazorAppFirstProject\\wwwroot\\assets\\img\\products\\1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\products\\1.jpg"
+    },
+    {
+      "Id": "E:\\BCB Project\\BCB\\DacayoIAS102Solution\\BlazorAppFirstProject\\wwwroot\\assets\\img\\products\\2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\products\\2.jpg"
+    },
+    {
+      "Id": "E:\\BCB Project\\BCB\\DacayoIAS102Solution\\BlazorAppFirstProject\\wwwroot\\assets\\img\\products\\3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\products\\3.jpg"
+    },
+    {
+      "Id": "E:\\BCB Project\\BCB\\DacayoIAS102Solution\\BlazorAppFirstProject\\wwwroot\\assets\\img\\team\\avatar2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\team\\avatar2.jpg"
+    },
+    {
+      "Id": "E:\\BCB Project\\BCB\\DacayoIAS102Solution\\BlazorAppFirstProject\\wwwroot\\assets\\img\\team\\avatar4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\team\\avatar4.jpg"
+    },
+    {
+      "Id": "E:\\BCB Project\\BCB\\DacayoIAS102Solution\\BlazorAppFirstProject\\wwwroot\\assets\\img\\team\\avatar5.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\team\\avatar5.jpg"
+    },
+    {
+      "Id": "E:\\BCB Project\\BCB\\DacayoIAS102Solution\\BlazorAppFirstProject\\wwwroot\\assets\\js\\bold-and-dark.js",
+      "PackagePath": "staticwebassets\\assets\\js\\bold-and-dark.js"
+    },
+    {
+      "Id": "E:\\BCB Project\\BCB\\DacayoIAS102Solution\\BlazorAppFirstProject\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\BCB Project\\BCB\\DacayoIAS102Solution\\BlazorAppFirstProject\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "E:\\BCB Project\\BCB\\DacayoIAS102Solution\\BlazorAppFirstProject\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
+      "PackagePath": "staticwebassets\\css\\open-iconic"
+    },
+    {
+      "Id": "E:\\BCB Project\\BCB\\DacayoIAS102Solution\\BlazorAppFirstProject\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
+      "PackagePath": "staticwebassets\\css\\open-iconic"
+    },
+    {
+      "Id": "E:\\BCB Project\\BCB\\DacayoIAS102Solution\\BlazorAppFirstProject\\wwwroot\\css\\open-iconic\\README.md",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\README.md"
+    },
+    {
+      "Id": "E:\\BCB Project\\BCB\\DacayoIAS102Solution\\BlazorAppFirstProject\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\BCB Project\\BCB\\DacayoIAS102Solution\\BlazorAppFirstProject\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.eot"
+    },
+    {
+      "Id": "E:\\BCB Project\\BCB\\DacayoIAS102Solution\\BlazorAppFirstProject\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.otf"
+    },
+    {
+      "Id": "E:\\BCB Project\\BCB\\DacayoIAS102Solution\\BlazorAppFirstProject\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.svg"
+    },
+    {
+      "Id": "E:\\BCB Project\\BCB\\DacayoIAS102Solution\\BlazorAppFirstProject\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.ttf"
+    },
+    {
+      "Id": "E:\\BCB Project\\BCB\\DacayoIAS102Solution\\BlazorAppFirstProject\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.woff"
+    },
+    {
+      "Id": "E:\\BCB Project\\BCB\\DacayoIAS102Solution\\BlazorAppFirstProject\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "E:\\BCB Project\\BCB\\DacayoIAS102Solution\\BlazorAppFirstProject\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "E:\\BCB Project\\BCB\\DacayoIAS102Solution\\BlazorAppFirstProject\\wwwroot\\qrcodejs\\.gitignore",
+      "PackagePath": "staticwebassets\\qrcodejs\\.gitignore"
+    },
+    {
+      "Id": "E:\\BCB Project\\BCB\\DacayoIAS102Solution\\BlazorAppFirstProject\\wwwroot\\qrcodejs\\LICENSE",
+      "PackagePath": "staticwebassets\\qrcodejs"
+    },
+    {
+      "Id": "E:\\BCB Project\\BCB\\DacayoIAS102Solution\\BlazorAppFirstProject\\wwwroot\\qrcodejs\\README.md",
+      "PackagePath": "staticwebassets\\qrcodejs\\README.md"
+    },
+    {
+      "Id": "E:\\BCB Project\\BCB\\DacayoIAS102Solution\\BlazorAppFirstProject\\wwwroot\\qrcodejs\\bower.json",
+      "PackagePath": "staticwebassets\\qrcodejs\\bower.json"
+    },
+    {
+      "Id": "E:\\BCB Project\\BCB\\DacayoIAS102Solution\\BlazorAppFirstProject\\wwwroot\\qrcodejs\\index-svg.html",
+      "PackagePath": "staticwebassets\\qrcodejs\\index-svg.html"
+    },
+    {
+      "Id": "E:\\BCB Project\\BCB\\DacayoIAS102Solution\\BlazorAppFirstProject\\wwwroot\\qrcodejs\\index.html",
+      "PackagePath": "staticwebassets\\qrcodejs\\index.html"
+    },
+    {
+      "Id": "E:\\BCB Project\\BCB\\DacayoIAS102Solution\\BlazorAppFirstProject\\wwwroot\\qrcodejs\\index.svg",
+      "PackagePath": "staticwebassets\\qrcodejs\\index.svg"
+    },
+    {
+      "Id": "E:\\BCB Project\\BCB\\DacayoIAS102Solution\\BlazorAppFirstProject\\wwwroot\\qrcodejs\\jquery.min.js",
+      "PackagePath": "staticwebassets\\qrcodejs\\jquery.min.js"
+    },
+    {
+      "Id": "E:\\BCB Project\\BCB\\DacayoIAS102Solution\\BlazorAppFirstProject\\wwwroot\\qrcodejs\\qrcode.js",
+      "PackagePath": "staticwebassets\\qrcodejs\\qrcode.js"
+    },
+    {
+      "Id": "E:\\BCB Project\\BCB\\DacayoIAS102Solution\\BlazorAppFirstProject\\wwwroot\\qrcodejs\\qrcode.min.js",
+      "PackagePath": "staticwebassets\\qrcodejs\\qrcode.min.js"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.BCBHPMSBlazor.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.BCBHPMSBlazor.props",
+      "PackagePath": "build\\BCBHPMSBlazor.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.BCBHPMSBlazor.props",
+      "PackagePath": "buildMultiTargeting\\BCBHPMSBlazor.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.BCBHPMSBlazor.props",
+      "PackagePath": "buildTransitive\\BCBHPMSBlazor.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

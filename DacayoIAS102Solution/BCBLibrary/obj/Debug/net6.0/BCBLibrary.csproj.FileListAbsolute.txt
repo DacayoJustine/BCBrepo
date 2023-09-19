@@ -1,0 +1,48 @@
+D:\Dacayo\ias-102\DacayoIAS102Solution\BCBLibrary\bin\Debug\net6.0\BCBLibrary.deps.json
+D:\Dacayo\ias-102\DacayoIAS102Solution\BCBLibrary\bin\Debug\net6.0\BCBLibrary.dll
+D:\Dacayo\ias-102\DacayoIAS102Solution\BCBLibrary\bin\Debug\net6.0\BCBLibrary.pdb
+D:\Dacayo\ias-102\DacayoIAS102Solution\BCBLibrary\obj\Debug\net6.0\BCBLibrary.csproj.AssemblyReference.cache
+D:\Dacayo\ias-102\DacayoIAS102Solution\BCBLibrary\obj\Debug\net6.0\BCBLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dacayo\ias-102\DacayoIAS102Solution\BCBLibrary\obj\Debug\net6.0\BCBLibrary.AssemblyInfoInputs.cache
+D:\Dacayo\ias-102\DacayoIAS102Solution\BCBLibrary\obj\Debug\net6.0\BCBLibrary.AssemblyInfo.cs
+D:\Dacayo\ias-102\DacayoIAS102Solution\BCBLibrary\obj\Debug\net6.0\BCBLibrary.csproj.CoreCompileInputs.cache
+D:\Dacayo\ias-102\DacayoIAS102Solution\BCBLibrary\obj\Debug\net6.0\BCBLibrary.dll
+D:\Dacayo\ias-102\DacayoIAS102Solution\BCBLibrary\obj\Debug\net6.0\refint\BCBLibrary.dll
+D:\Dacayo\ias-102\DacayoIAS102Solution\BCBLibrary\obj\Debug\net6.0\BCBLibrary.pdb
+D:\Dacayo\ias-102\DacayoIAS102Solution\BCBLibrary\obj\Debug\net6.0\ref\BCBLibrary.dll
+E:\BCB Project\DacayoIAS102Solution\BCBLibrary\obj\Debug\net6.0\BCBLibrary.dll
+E:\BCB Project\DacayoIAS102Solution\BCBLibrary\obj\Debug\net6.0\refint\BCBLibrary.dll
+E:\BCB Project\DacayoIAS102Solution\BCBLibrary\obj\Debug\net6.0\BCBLibrary.pdb
+D:\BCB Project\DacayoIAS102Solution\BCBLibrary\obj\Debug\net6.0\BCBLibrary.csproj.AssemblyReference.cache
+D:\BCB Project\DacayoIAS102Solution\BCBLibrary\obj\Debug\net6.0\BCBLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\BCB Project\DacayoIAS102Solution\BCBLibrary\obj\Debug\net6.0\BCBLibrary.AssemblyInfoInputs.cache
+D:\BCB Project\DacayoIAS102Solution\BCBLibrary\obj\Debug\net6.0\BCBLibrary.AssemblyInfo.cs
+D:\BCB Project\DacayoIAS102Solution\BCBLibrary\obj\Debug\net6.0\BCBLibrary.csproj.CoreCompileInputs.cache
+D:\BCB Project\DacayoIAS102Solution\BCBLibrary\obj\Debug\net6.0\BCBLibrary.dll
+D:\BCB Project\DacayoIAS102Solution\BCBLibrary\obj\Debug\net6.0\refint\BCBLibrary.dll
+D:\BCB Project\DacayoIAS102Solution\BCBLibrary\obj\Debug\net6.0\BCBLibrary.pdb
+D:\BCB Project\DacayoIAS102Solution\BCBLibrary\bin\Debug\net6.0\BCBLibrary.deps.json
+D:\BCB Project\DacayoIAS102Solution\BCBLibrary\bin\Debug\net6.0\BCBLibrary.dll
+D:\BCB Project\DacayoIAS102Solution\BCBLibrary\bin\Debug\net6.0\BCBLibrary.pdb
+D:\BCB Project\DacayoIAS102Solution\BCBLibrary\obj\Debug\net6.0\ref\BCBLibrary.dll
+E:\BCB Project\DacayoIAS102Solution\BCBLibrary\bin\Debug\net6.0\BCBLibrary.deps.json
+E:\BCB Project\DacayoIAS102Solution\BCBLibrary\bin\Debug\net6.0\BCBLibrary.dll
+E:\BCB Project\DacayoIAS102Solution\BCBLibrary\bin\Debug\net6.0\BCBLibrary.pdb
+E:\BCB Project\DacayoIAS102Solution\BCBLibrary\obj\Debug\net6.0\BCBLibrary.csproj.AssemblyReference.cache
+E:\BCB Project\DacayoIAS102Solution\BCBLibrary\obj\Debug\net6.0\BCBLibrary.GeneratedMSBuildEditorConfig.editorconfig
+E:\BCB Project\DacayoIAS102Solution\BCBLibrary\obj\Debug\net6.0\BCBLibrary.AssemblyInfoInputs.cache
+E:\BCB Project\DacayoIAS102Solution\BCBLibrary\obj\Debug\net6.0\BCBLibrary.AssemblyInfo.cs
+E:\BCB Project\DacayoIAS102Solution\BCBLibrary\obj\Debug\net6.0\BCBLibrary.csproj.CoreCompileInputs.cache
+E:\BCB Project\DacayoIAS102Solution\BCBLibrary\obj\Debug\net6.0\ref\BCBLibrary.dll
+E:\BCB Project\BCB\DacayoIAS102Solution\BCBLibrary\bin\Debug\net6.0\BCBLibrary.deps.json
+E:\BCB Project\BCB\DacayoIAS102Solution\BCBLibrary\bin\Debug\net6.0\BCBLibrary.dll
+E:\BCB Project\BCB\DacayoIAS102Solution\BCBLibrary\bin\Debug\net6.0\BCBLibrary.pdb
+E:\BCB Project\BCB\DacayoIAS102Solution\BCBLibrary\obj\Debug\net6.0\BCBLibrary.csproj.AssemblyReference.cache
+E:\BCB Project\BCB\DacayoIAS102Solution\BCBLibrary\obj\Debug\net6.0\BCBLibrary.GeneratedMSBuildEditorConfig.editorconfig
+E:\BCB Project\BCB\DacayoIAS102Solution\BCBLibrary\obj\Debug\net6.0\BCBLibrary.AssemblyInfoInputs.cache
+E:\BCB Project\BCB\DacayoIAS102Solution\BCBLibrary\obj\Debug\net6.0\BCBLibrary.AssemblyInfo.cs
+E:\BCB Project\BCB\DacayoIAS102Solution\BCBLibrary\obj\Debug\net6.0\BCBLibrary.csproj.CoreCompileInputs.cache
+E:\BCB Project\BCB\DacayoIAS102Solution\BCBLibrary\obj\Debug\net6.0\BCBLibrary.dll
+E:\BCB Project\BCB\DacayoIAS102Solution\BCBLibrary\obj\Debug\net6.0\refint\BCBLibrary.dll
+E:\BCB Project\BCB\DacayoIAS102Solution\BCBLibrary\obj\Debug\net6.0\BCBLibrary.pdb
+E:\BCB Project\BCB\DacayoIAS102Solution\BCBLibrary\obj\Debug\net6.0\ref\BCBLibrary.dll

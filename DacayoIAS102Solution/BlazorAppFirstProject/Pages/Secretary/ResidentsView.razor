@@ -1,0 +1,85 @@
+﻿@page "/ResidentsView/{Id:int}"
+@* @attribute [Authorize("Secretary")]
+ *@
+
+
+
+<div class="container" style="margin-top: 32px;">
+    @if (_residentsDetail != null)
+    {
+        @foreach (var item in _residentsDetail)
+        {
+        <div class="row">
+            <div class="col">
+                <h1 class="text-center"><strong>Resident View</strong></h1>
+            </div>
+            </div>
+            <div class="row">
+                <div class="col-xl-3"><label class="form-label">First Name : @item.FirstName</label></div>
+                <div class="col-xl-4"><label class="form-label">Middle Name : @item.MiddleName</label></div>
+                <div class="col-xl-3"><label class="form-label">Last Name : @item.LastName</label></div>
+                <div class="col"><label class="form-label">Suffix : @item.Suffix</label></div>
+            </div>
+            <div class="row" style="margin-top: 10px;">
+                <div class="col-xl-12 offset-xl-0"><label class="form-label">Date of Birth : @item.BirthDate</label></div>
+            </div>
+            <div class="row" style="margin-top: 10px;">
+                <div class="col-xl-12 offset-xl-0"><label class="form-label">Age : @item.Age</label></div>
+            </div>
+            <div class="row" style="margin-top: 10px;">
+                <div class="col-xl-12 offset-xl-0">
+                    <p class="col-xl-12 offset-xl-0"><strong>Gender : @item.Gender</strong></p>
+                </div>
+            </div>
+            <div class="row" style="margin-top: 10px;">
+                <div class="col-xl-12 offset-xl-0"><label class="form-label">Civil Status : @item.civilStatus</label></div>
+            </div>
+            <div class="row" style="margin-top: 10px;">
+                <div class="col-xl-12 offset-xl-0"><label class="form-label">Religion : @item.Religion</label></div>
+            </div>
+            <div class="row" style="margin-top: 10px;">
+                <div class="col-xl-12 offset-xl-0"><label class="form-label">Occupation: @item.Occupation</label></div>
+            </div>
+            <div class="row" style="margin-top: 10px;">
+                <div class="col-xl-12 offset-xl-0"><label class="form-label">Father's Name : @item.FathersName</label></div>
+            </div>
+            <div class="row" style="margin-top: 10px;">
+                <div class="col-xl-12 offset-xl-0"><label class="form-label">Mother's Name : @item.MothersName</label></div>
+            </div>
+            <div class="row" style="margin-top: 10px;">
+                <div class="col-xl-12 offset-xl-0"><label class="form-label">Head of Family : @item.HeadOfFamily</label></div>
+            </div>
+            <div class="row" style="margin-top: 10px;">
+                <div class="col-xl-12 offset-xl-0"><label class="form-label">Educational Attainment : @item.EducationalAttainment</label></div>
+            </div>
+            <div class="row" style="margin-top: 10px;">
+                <div class="col-xl-12 offset-xl-0"><label class="form-label">Purok : @item.Purok</label></div>
+            </div>
+            <div class="row" style="margin-top: 10px;">
+                <div class="col-xl-12 offset-xl-0"><label class="form-label">Status Type : @item.StatusType</label></div>
+            </div>
+
+        }
+    }
+</div>
+
+@code {
+    [Parameter] public int Id { get; set; }
+
+
+    private IEnumerable<ResidentsModel> _residentsDetail { get; set; }
+    private bool hide = true;
+
+    [Inject] private ResidentsManager _residentsManager { get; set; }
+
+
+    protected override async Task OnInitializedAsync()
+    {
+
+        _residentsDetail = await _residentsManager.GetResidentsById(Id);
+
+    }
+
+
+
+}

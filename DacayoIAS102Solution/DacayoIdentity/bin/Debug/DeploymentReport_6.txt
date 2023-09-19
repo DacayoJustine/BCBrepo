@@ -1,0 +1,19 @@
+﻿** Highlights
+     Tables that will be recreated with data migrated
+       [dbo].[ResidentsForm]
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       None
+
+** User actions
+     Recreate table
+       [dbo].[ResidentsForm] (Table)
+     Alter
+       [dbo].[CreateResidents] (Procedure)
+
+** Supporting actions
+     Refresh
+       [dbo].[GetAllResidents] (Procedure)

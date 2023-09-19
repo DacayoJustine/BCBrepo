@@ -1,0 +1,32 @@
+D:\Dacayo\ias-102\DacayoIAS102Solution\DacayoIdentity\bin\Debug\DacayoIdentity.dacpac
+D:\Dacayo\ias-102\DacayoIAS102Solution\DacayoIdentity\bin\Debug\DacayoIdentity.dll
+D:\Dacayo\ias-102\DacayoIAS102Solution\DacayoIdentity\bin\Debug\DacayoIdentity.pdb
+D:\Dacayo\ias-102\DacayoIAS102Solution\DacayoIdentity\obj\Debug\DacayoIdentity.sqlproj.AssemblyReference.cache
+D:\Dacayo\ias-102\DacayoIAS102Solution\DacayoIdentity\obj\Debug\Model.xml
+D:\Dacayo\ias-102\DacayoIAS102Solution\DacayoIdentity\obj\Debug\refactor.xml
+D:\Dacayo\ias-102\DacayoIAS102Solution\DacayoIdentity\obj\Debug\postdeploy.sql
+D:\Dacayo\ias-102\DacayoIAS102Solution\DacayoIdentity\obj\Debug\predeploy.sql
+D:\Dacayo\ias-102\DacayoIAS102Solution\DacayoIdentity\obj\Debug\DacayoIdentity.dll
+D:\Dacayo\ias-102\DacayoIAS102Solution\DacayoIdentity\obj\Debug\DacayoIdentity.pdb
+E:\BCB Project\DacayoIAS102Solution\DacayoIdentity\bin\Debug\DacayoIdentity.dacpac
+E:\BCB Project\DacayoIAS102Solution\DacayoIdentity\bin\Debug\DacayoIdentity.dll
+E:\BCB Project\DacayoIAS102Solution\DacayoIdentity\bin\Debug\DacayoIdentity.pdb
+E:\BCB Project\DacayoIAS102Solution\DacayoIdentity\obj\Debug\DacayoIdentity.sqlproj.AssemblyReference.cache
+E:\BCB Project\DacayoIAS102Solution\DacayoIdentity\obj\Debug\DacayoIdentity.dll
+E:\BCB Project\DacayoIAS102Solution\DacayoIdentity\obj\Debug\DacayoIdentity.pdb
+D:\BCB Project\DacayoIAS102Solution\DacayoIdentity\bin\Debug\DacayoIdentity.dacpac
+D:\BCB Project\DacayoIAS102Solution\DacayoIdentity\bin\Debug\DacayoIdentity.dll
+D:\BCB Project\DacayoIAS102Solution\DacayoIdentity\bin\Debug\DacayoIdentity.pdb
+D:\BCB Project\DacayoIAS102Solution\DacayoIdentity\obj\Debug\DacayoIdentity.sqlproj.AssemblyReference.cache
+D:\BCB Project\DacayoIAS102Solution\DacayoIdentity\obj\Debug\DacayoIdentity.dll
+D:\BCB Project\DacayoIAS102Solution\DacayoIdentity\obj\Debug\DacayoIdentity.pdb
+D:\BCB Project\DacayoIAS102Solution\DacayoIdentity\obj\Debug\Model.xml
+D:\BCB Project\DacayoIAS102Solution\DacayoIdentity\obj\Debug\refactor.xml
+D:\BCB Project\DacayoIAS102Solution\DacayoIdentity\obj\Debug\postdeploy.sql
+D:\BCB Project\DacayoIAS102Solution\DacayoIdentity\obj\Debug\predeploy.sql
+E:\BCB Project\BCB\DacayoIAS102Solution\DacayoIdentity\bin\Debug\DacayoIdentity.dacpac
+E:\BCB Project\BCB\DacayoIAS102Solution\DacayoIdentity\bin\Debug\DacayoIdentity.dll
+E:\BCB Project\BCB\DacayoIAS102Solution\DacayoIdentity\bin\Debug\DacayoIdentity.pdb
+E:\BCB Project\BCB\DacayoIAS102Solution\DacayoIdentity\obj\Debug\DacayoIdentity.sqlproj.AssemblyReference.cache
+E:\BCB Project\BCB\DacayoIAS102Solution\DacayoIdentity\obj\Debug\DacayoIdentity.dll
+E:\BCB Project\BCB\DacayoIAS102Solution\DacayoIdentity\obj\Debug\DacayoIdentity.pdb

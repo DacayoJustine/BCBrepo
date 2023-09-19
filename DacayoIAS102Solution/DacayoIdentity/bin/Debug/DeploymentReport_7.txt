@@ -1,0 +1,27 @@
+﻿** Highlights
+     Tables that will be recreated with data migrated
+       None
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       The type for column Age in table [dbo].[ResidentsForm] is currently  NVARCHAR (250) NULL but is being changed to 
+         NUMERIC (18) NULL. Data loss could occur and deployment may fail if the column contains data that is incompatible with
+         type  NUMERIC (18) NULL.
+       The type for column TotalNumberOfFamily in table [dbo].[ResidentsForm] is currently  NVARCHAR (250) NULL but is being
+         changed to  NUMERIC (18) NULL. Data loss could occur and deployment may fail if the column contains data that is
+         incompatible with type  NUMERIC (18) NULL.
+
+** User actions
+     Alter
+       [dbo].[ResidentsForm] (Table)
+
+** Supporting actions
+     Refresh
+       [dbo].[CreateResidents] (Procedure)
+       [dbo].[GetAllResidents] (Procedure)
+
+The type for column Age in table [dbo].[ResidentsForm] is currently  NVARCHAR (250) NULL but is being changed to  NUMERIC (18) NULL. Data loss could occur and deployment may fail if the column contains data that is incompatible with type  NUMERIC (18) NULL.
+The type for column TotalNumberOfFamily in table [dbo].[ResidentsForm] is currently  NVARCHAR (250) NULL but is being changed to  NUMERIC (18) NULL. Data loss could occur and deployment may fail if the column contains data that is incompatible with type  NUMERIC (18) NULL.
+
